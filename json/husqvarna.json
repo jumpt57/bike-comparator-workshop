@@ -1,0 +1,857 @@
+{
+  "@name" : 1,
+  "id" : 10,
+  "name" : "husqvarna",
+  "years" : [ "2017", "2016", "2013", "2012", "2011" ],
+  "imgUrl" : "http://www.motoplanete.com/husqvarna/husqvarna.jpg",
+  "url" : "http://www.motoplanete.com/constructeurs/constructeur/10/2016/husqvarna.php",
+  "bikes" : [ {
+    "id" : 5990,
+    "name" : "Husqvarna 450 FS 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5990/450-FS-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-450-FS-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 10150,
+    "category" : "Super motard",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 266 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "165 / 65 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 280 mm",
+      "frontShock" : null,
+      "frontWheel" : "125 / 80 - 17\"",
+      "frontBrake" : "1 disque Ø 310 mm, étrier Brembo 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 44 mm",
+      "torque" : null,
+      "act" : "1 ACT",
+      "power" : "63 ch",
+      "cooling" : "par eau",
+      "displacement" : "449.9 cc (95 x 63.4 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.67 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 105.3,
+      "seatHeight" : 890.0,
+      "type" : " Simple berceau tubulaire en acier",
+      "tankCapacity" : 7.0,
+      "lenght" : null,
+      "wheelbase" : 1475,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5989,
+    "name" : "Husqvarna 701 Supermoto 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5989/701-Supermoto-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-701-Supermoto-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9650,
+    "category" : "Super motard",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 250 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 215 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "1 disque Ø 320 mm, étrier radial 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 46 mm",
+      "torque" : "6.9 mkg à 6500 tr/min",
+      "act" : "1 ACT",
+      "power" : "67 ch à 7000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "690 cc (102 x 84.5 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.16 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 145.0,
+      "seatHeight" : 890.0,
+      "type" : " cadre treillis en tubes d'acier",
+      "tankCapacity" : 13.0,
+      "lenght" : null,
+      "wheelbase" : 1480,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6018,
+    "name" : "Husqvarna TC 125 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6018/TC-125-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TC-125-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 7550,
+    "category" : "Cross",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 300 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "100 / 90 - 19\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "80 / 100 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Carburateur Ø 38 mm",
+      "torque" : null,
+      "act" : null,
+      "power" : "40 ch",
+      "cooling" : "par eau",
+      "displacement" : "124.8 cc (54 x 54.5 mm)",
+      "type" : "Monocylindre en ligne, 2 temps",
+      "powerToWeightRatio" : "2.23 kg/ch",
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 89.1,
+      "seatHeight" : 960.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 7.0,
+      "lenght" : null,
+      "wheelbase" : 1485,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6019,
+    "name" : "Husqvarna TC 250 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6019/TC-250-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TC-250-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 8250,
+    "category" : "Cross",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 317 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "110 / 90 - 19\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "80 / 100 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Carburateur Ø 36 mm",
+      "torque" : null,
+      "act" : null,
+      "power" : null,
+      "cooling" : "par eau",
+      "displacement" : "249 cc (66.4 x 72 mm)",
+      "type" : "Monocylindre en ligne, 2 temps",
+      "powerToWeightRatio" : null,
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 97.7,
+      "seatHeight" : 992.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 7.5,
+      "lenght" : null,
+      "wheelbase" : 1495,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5986,
+    "name" : "Husqvarna 701 Enduro 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5986/701-Enduro-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-701-Enduro-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9350,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 275 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 275 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 46 mm",
+      "torque" : "6.9 mkg à 6500 tr/min",
+      "act" : "1 ACT",
+      "power" : "67 ch à 7000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "690 cc (102 x 84.5 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.16 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 145.0,
+      "seatHeight" : 910.0,
+      "type" : " cadre treillis en tubes d'acier",
+      "tankCapacity" : 13.0,
+      "lenght" : null,
+      "wheelbase" : 1480,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5994,
+    "name" : "Husqvarna FE 250 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5994/FE-250-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-250-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9590,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 42 mm",
+      "torque" : null,
+      "act" : null,
+      "power" : "37 ch",
+      "cooling" : "par eau",
+      "displacement" : "249.91 cc (78 x 52.3 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.9 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 107.3,
+      "seatHeight" : 970.0,
+      "type" : " Simple berceau tubulaire en acier",
+      "tankCapacity" : 9.5,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6006,
+    "name" : "Husqvarna FE 350 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6006/FE-350-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-350-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9790,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 42 mm",
+      "torque" : null,
+      "act" : "2 ACT",
+      "power" : "46 ch",
+      "cooling" : "par eau",
+      "displacement" : "349.7 cc (88 x 55.7 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.37 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 109.0,
+      "seatHeight" : 970.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 9.5,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6007,
+    "name" : "Husqvarna FE 450 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6007/FE-450-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-450-FE-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9890,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 42 mm",
+      "torque" : null,
+      "act" : "2 ACT, desmodromique",
+      "power" : "53 ch",
+      "cooling" : "par eau",
+      "displacement" : "449.3 cc (95 x 63.4 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.13 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 112.8,
+      "seatHeight" : 970.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 9.0,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6008,
+    "name" : "Husqvarna FE 501 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6008/FE-501-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-501-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 10090,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 42 mm",
+      "torque" : null,
+      "act" : "1 ACT",
+      "power" : "58 ch à 11500 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "510.4 cc (95 x 72 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.95 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 113.3,
+      "seatHeight" : 970.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 9.0,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5988,
+    "name" : "Husqvarna TE 125 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5988/TE-125-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TE-125-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 7790,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "120 / 90 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : null,
+      "torque" : null,
+      "act" : null,
+      "power" : "38 ch",
+      "cooling" : "par eau",
+      "displacement" : "124.8 cc (54 x 54.5 mm)",
+      "type" : "Monocylindre en ligne, 2 temps",
+      "powerToWeightRatio" : "2.52 kg/ch",
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 95.8,
+      "seatHeight" : 960.0,
+      "type" : " Cadre tubulaire central en acier",
+      "tankCapacity" : 11.0,
+      "lenght" : null,
+      "wheelbase" : 1471,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5992,
+    "name" : "Husqvarna TE 250 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5992/TE-250-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TE-250-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 8590,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Carburateur Ø 36 mm",
+      "torque" : null,
+      "act" : null,
+      "power" : "52 ch",
+      "cooling" : "par eau",
+      "displacement" : "249 cc (66.4 x 72 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.01 kg/ch",
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 104.4,
+      "seatHeight" : 960.0,
+      "type" : " Simple berceau tubulaire en acier",
+      "tankCapacity" : 11.0,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5993,
+    "name" : "Husqvarna TE 300 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5993/TE-300-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-300-TE-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 8690,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
+      "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Carburateur Ø 36 mm",
+      "torque" : null,
+      "act" : "1 ACT",
+      "power" : "54 ch",
+      "cooling" : "par eau",
+      "displacement" : "293.2 cc (72 x 72 mm)",
+      "type" : "Monocylindre en ligne, 2 temps",
+      "powerToWeightRatio" : "1.93 kg/ch",
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 104.4,
+      "seatHeight" : 960.0,
+      "type" : " Simple berceau tubulaire en acier",
+      "tankCapacity" : 11.0,
+      "lenght" : null,
+      "wheelbase" : 1482,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4311,
+    "name" : "Husqvarna TR 650 Strada 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/4311/TR-650-Strada-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Strada-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 175,
+    "zeroToHundred" : null,
+    "price" : 7800,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 190 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 190 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "6.2 mkg à 5750 tr/min",
+      "act" : "2 ACT",
+      "power" : "58 ch à 7250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "652 cc (100 x 83 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.9 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 168.0,
+      "seatHeight" : 860.0,
+      "type" : " poutre en tubes d?acier",
+      "tankCapacity" : 14.0,
+      "lenght" : 2248,
+      "wheelbase" : 1501,
+      "width" : 875,
+      "height" : null,
+      "movingWeight" : 186.0
+    }
+  }, {
+    "id" : 4313,
+    "name" : "Husqvarna TR 650 Terra 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/4313/TR-650-Terra-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Terra-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 7500,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 190 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 190 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "6.2 mkg à 5750 tr/min",
+      "act" : "2 ACT",
+      "power" : "58 ch à 7250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "652 cc (100 x 83 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "2.84 kg/ch",
+      "valve" : "4 soupapes",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 166.0,
+      "seatHeight" : 865.0,
+      "type" : " poutre en tubes d?acier",
+      "tankCapacity" : 14.0,
+      "lenght" : 2267,
+      "wheelbase" : 1501,
+      "width" : 875,
+      "height" : null,
+      "movingWeight" : 184.0
+    }
+  }, {
+    "id" : 3468,
+    "name" : "Husqvarna NUDA 900 R 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/3468/NUDA-900-R-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-nuda-900-r-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 11590,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur Öhlins, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 265 mm, étrier 1 piston",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 48 mm, déb : 210 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 46 mm",
+      "torque" : "9.78 mkg à 7000 tr/min",
+      "act" : "2 ACT",
+      "power" : "105 ch à 8500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (84 x 81 mm)",
+      "type" : "Bicylindre parallèle, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 174.0,
+      "seatHeight" : 895.0,
+      "type" : " Treillis en tubes d'acier",
+      "tankCapacity" : 13.0,
+      "lenght" : null,
+      "wheelbase" : 1495,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3518,
+    "name" : "Husqvarna TE 511 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/3518/TE-511-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TE-511-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : null,
+    "zeroToHundred" : null,
+    "price" : 9190,
+    "category" : "Enduro",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 300 mm",
+      "rearBrake" : "1 disque Ã 240 mm, étrier 1 piston",
+      "rearWheel" : "140 / 80 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ã 48 mm, déb : 300 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ã 260 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ã¸ nc",
+      "torque" : null,
+      "act" : "2 ACT",
+      "power" : null,
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "477.5 cc (101 x 59.6 mm)",
+      "type" : "Monocylindre en ligne, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 113.0,
+      "seatHeight" : 995.0,
+      "type" : " simple berceau dédoublé en acier molybdène",
+      "tankCapacity" : 8.5,
+      "lenght" : 2280,
+      "wheelbase" : 1490,
+      "width" : 820,
+      "height" : 1260.0,
+      "movingWeight" : null
+    }
+  } ]
+}
