@@ -1,0 +1,4726 @@
+{
+  "@name" : 1,
+  "id" : 19,
+  "name" : "benelli",
+  "years" : [ "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002" ],
+  "imgUrl" : "http://www.motoplanete.com/benelli/benelli_logo.gif",
+  "url" : "http://www.motoplanete.com/constructeurs/constructeur/19/2016/benelli.php",
+  "bikes" : [ {
+    "id" : 6313,
+    "name" : "Benelli 502 TRK 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/6313/502-TRK-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-502-Tre-k-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 6000,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 135 mm",
+      "rearBrake" : "1 disque Ø 260, étrier 1 piston",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 135 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "4.6 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "47 ch à 8500 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "499.6 cc (69 x 66.8 mm)",
+      "type" : "Bicylindre parallèle, 4 temps",
+      "powerToWeightRatio" : "4.53 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 213.0,
+      "seatHeight" : 800.0,
+      "type" : " cadre treillis en tubes d'acier",
+      "tankCapacity" : 20.0,
+      "lenght" : 2170,
+      "wheelbase" : 1525,
+      "width" : 890,
+      "height" : 1235.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5798,
+    "name" : "Benelli Tornado 302 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5798/Tornado-302-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-302-Tornado-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 5200,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+      "rearWheel" : "150 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 260 mm, étriers à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 34 mm",
+      "torque" : "2.7 mkg à 9000 tr/min",
+      "act" : null,
+      "power" : "35 ch à 12000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "302 cc (65 x 45.2 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "5.14 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 180.0,
+      "seatHeight" : 790.0,
+      "type" : " tubulaire périmétrique en acier",
+      "tankCapacity" : 14.0,
+      "lenght" : 2175,
+      "wheelbase" : 1410,
+      "width" : 746,
+      "height" : 1146.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5899,
+    "name" : "Benelli 500 LEONCINO 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5899/500-LEONCINO-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-500-leoncino-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 7000,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 145 mm",
+      "rearBrake" : "1 disque Ø 260 mm étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 135 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "4.6 mkg à 4500 tr/min",
+      "act" : "2 ACT",
+      "power" : "48 ch à 8500 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "499.6 cc (69 x 66.8 mm)",
+      "type" : "Bicylindre parallèle, 4 temps",
+      "powerToWeightRatio" : "3.54 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 170.0,
+      "seatHeight" : 815.0,
+      "type" : " Treillis en tubes d'acier",
+      "tankCapacity" : 15.0,
+      "lenght" : 2100,
+      "wheelbase" : 1450,
+      "width" : 800,
+      "height" : 1160.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5895,
+    "name" : "Benelli BN 251 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5895/BN-251-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-BN-251-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 140,
+    "zeroToHundred" : null,
+    "price" : 3500,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 50 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 70 - 17\"",
+      "frontBrake" : "1 disque Ø 280 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "2.2 mkg à 7000 tr/min",
+      "act" : "2 ACT",
+      "power" : "25 ch à 9000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "249.2 cc (72 x 61.2 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "5.72 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 143.0,
+      "seatHeight" : 780.0,
+      "type" : " tubulaire en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2080,
+      "wheelbase" : 1385,
+      "width" : 805,
+      "height" : 1090.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5799,
+    "name" : "Benelli BN 302 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5799/BN-302-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-BN-302-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 160,
+    "zeroToHundred" : null,
+    "price" : 4800,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 115 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 260 mm, étriers à 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "2.75 mkg à 9000 tr/min",
+      "act" : null,
+      "power" : "38 ch à 12000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "302 cc (65 x 45.2 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : null,
+      "seatHeight" : 795.0,
+      "type" : " tubulaire périmétrique en acier",
+      "tankCapacity" : 16.0,
+      "lenght" : 2115,
+      "wheelbase" : 1405,
+      "width" : 800,
+      "height" : 1130.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5898,
+    "name" : "Benelli BN 600 R 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5898/BN-600-R-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-BN-600-R-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 7495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 123 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "5.3 mkg à 10500 tr/min",
+      "act" : "2 ACT",
+      "power" : "82 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "599 cc (65 x 45.2 mm)",
+      "type" : "4 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "2.54 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 800.0,
+      "type" : " treillis tubulaire en tube d'acier relié à des platines en alu",
+      "tankCapacity" : 15.0,
+      "lenght" : 2160,
+      "wheelbase" : 1430,
+      "width" : 800,
+      "height" : 1180.0,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 5897,
+    "name" : "Benelli TNT 1130 R 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5897/TNT-1130-R-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-TnT-R-160-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 15895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 6313,
+    "name" : "Benelli 502 TRK 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/6313/502-TRK-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-502-Tre-k-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 6000,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 135 mm",
+      "rearBrake" : "1 disque Ø 260, étrier 1 piston",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 135 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "4.6 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "47 ch à 8500 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "499.6 cc (69 x 66.8 mm)",
+      "type" : "Bicylindre parallèle, 4 temps",
+      "powerToWeightRatio" : "4.53 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 213.0,
+      "seatHeight" : 800.0,
+      "type" : " cadre treillis en tubes d'acier",
+      "tankCapacity" : 20.0,
+      "lenght" : 2170,
+      "wheelbase" : 1525,
+      "width" : 890,
+      "height" : 1235.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5896,
+    "name" : "Benelli 1130 TRE-K 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5896/1130-TRE-K-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-tre-k-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 13495,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.67 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 5894,
+    "name" : "Benelli 502 TRK 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5894/502-TRK-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-502-Tre-k-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 6000,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 150 mm",
+      "rearBrake" : "1 disque Ø 260, étrier 2 pistons",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 150 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "4.6 mkg à 4500 tr/min",
+      "act" : "2 ACT",
+      "power" : "48 ch à 8500 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "499.6 cc (69 x 66.8 mm)",
+      "type" : "Bicylindre parallèle, 4 temps",
+      "powerToWeightRatio" : "4.38 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 210.0,
+      "seatHeight" : 815.0,
+      "type" : " cadre treillis en tubes d'acier",
+      "tankCapacity" : 20.0,
+      "lenght" : 2180,
+      "wheelbase" : 1535,
+      "width" : 912,
+      "height" : 1465.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5900,
+    "name" : "Benelli BN 600 GT 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5900/BN-600-GT-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-BN-600-GT-2015.jpg",
+    "year" : "2016",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 8190,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 123 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 123 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "5.8 mkg à 8100 tr/min",
+      "act" : "2 ACT",
+      "power" : "84 ch à 11000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "599 cc (65 x 45.2 mm)",
+      "type" : "4 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "2.65 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 223.0,
+      "seatHeight" : 800.0,
+      "type" : " treillis tubulaire en tube d'acier relié à des platines en alu",
+      "tankCapacity" : 27.0,
+      "lenght" : 2150,
+      "wheelbase" : 1470,
+      "width" : 840,
+      "height" : 1280.0,
+      "movingWeight" : 243.0
+    }
+  }, {
+    "id" : 5390,
+    "name" : "Benelli BN 251 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5390/BN-251-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-BN-251-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 140,
+    "zeroToHundred" : null,
+    "price" : 3500,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 50 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 70 - 17\"",
+      "frontBrake" : "1 disque Ø 280 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 37 mm",
+      "torque" : "2.2 mkg à 7000 tr/min",
+      "act" : "2 ACT",
+      "power" : "25 ch à 9000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "249.2 cc (72 x 61.2 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "5.72 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 143.0,
+      "seatHeight" : 780.0,
+      "type" : " tubulaire en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2080,
+      "wheelbase" : 1385,
+      "width" : 805,
+      "height" : 1090.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5389,
+    "name" : "Benelli BN 302 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5389/BN-302-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-BN-302-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 160,
+    "zeroToHundred" : null,
+    "price" : 4790,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 115 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 260 mm, étriers à 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "2.75 mkg à 9000 tr/min",
+      "act" : null,
+      "power" : "38 ch à 12000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "302 cc (65 x 45.2 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : null,
+      "seatHeight" : 795.0,
+      "type" : " tubulaire périmétrique en acier",
+      "tankCapacity" : 16.0,
+      "lenght" : 2115,
+      "wheelbase" : 1405,
+      "width" : 800,
+      "height" : 1130.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5388,
+    "name" : "Benelli BN 600 R 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5388/BN-600-R-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-BN-600-R-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 7495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 123 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "5.3 mkg à 10500 tr/min",
+      "act" : "2 ACT",
+      "power" : "82 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "599 cc (65 x 45.2 mm)",
+      "type" : "4 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "2.54 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 800.0,
+      "type" : " treillis tubulaire en tube d'acier relié à des platines en alu",
+      "tankCapacity" : 15.0,
+      "lenght" : 2160,
+      "wheelbase" : 1430,
+      "width" : 800,
+      "height" : 1180.0,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 5385,
+    "name" : "Benelli TNT 1130 R 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5385/TNT-1130-R-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-TnT-R-160-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 15895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 5387,
+    "name" : "Benelli TnT 899 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5387/TnT-899-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-899-TnT-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12125,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "8 mkg à 9000 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 830.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5384,
+    "name" : "Benelli 1130 TRE-K 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5384/1130-TRE-K-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-tre-k-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 13495,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.67 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 5383,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/5383/1130-TRE-K-AMAZONAS-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 14595,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "126 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.71 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 4988,
+    "name" : "Benelli BN 600 R 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4988/BN-600-R-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-BN-600-R-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 7495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 123 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "5.3 mkg à 10500 tr/min",
+      "act" : "2 ACT",
+      "power" : "82 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "599 cc (65 x 45.2 mm)",
+      "type" : "4 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "2.54 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 800.0,
+      "type" : " treillis tubulaire en tube d'acier relié à des platines en alu",
+      "tankCapacity" : 15.0,
+      "lenght" : 2160,
+      "wheelbase" : 1430,
+      "width" : 800,
+      "height" : 1180.0,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 4986,
+    "name" : "Benelli TNT 1130 R 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4986/TNT-1130-R-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-TnT-R-160-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 15895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 4985,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4985/TnT-899-Tonado-Naked-Tre-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-899-TnT-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12125,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.71 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 830.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4987,
+    "name" : "Benelli 1130 TRE-K 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4987/1130-TRE-K-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-tre-k-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 13495,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 4459,
+    "name" : "Benelli BN 600 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4459/BN-600-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-BN-600-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 6490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur latéral, déb : 123 mm",
+      "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 38 mm",
+      "torque" : "5.3 mkg à 10500 tr/min",
+      "act" : "2 ACT",
+      "power" : "82 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "599 cc (65 x 45.2 mm)",
+      "type" : "4 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "2.54 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 800.0,
+      "type" : " treillis tubulaire en tube d'acier relié à des platines en alu",
+      "tankCapacity" : 15.0,
+      "lenght" : 2160,
+      "wheelbase" : 1430,
+      "width" : 800,
+      "height" : 1180.0,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 4944,
+    "name" : "Benelli TnT 1130 CAFE RACER 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4944/TnT-1130-CAFE-RACER-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 4653,
+    "name" : "Benelli TNT 1130 R 160 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4653/TNT-1130-R-160-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-TnT-R-160-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 14890,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 4946,
+    "name" : "Benelli TnT 899 Century Racer 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4946/TnT-899-Century-Racer-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-Century-Racer-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "9 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 4945,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4945/TnT-899-Tonado-Naked-Tre-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-899-TnT-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 10990,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 4652,
+    "name" : "Benelli 1130 TRE-K 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4652/1130-TRE-K-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/Benelli-1130-tre-k-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 12490,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 4263,
+    "name" : "Benelli CENTURY 1130 RACER 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4263/CENTURY-1130-RACER-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-century-1130-racer-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15000,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3921,
+    "name" : "Benelli TNT 1130 R 160 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3921/TNT-1130-R-160-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-R-160-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 14895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 4202,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/4202/TnT-899-Tonado-Naked-Tre-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/benelli-899-TnT-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 10990,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3922,
+    "name" : "Benelli 1130 TRE-K 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3922/1130-TRE-K-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 3920,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3920/1130-TRE-K-AMAZONAS-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13500,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 3087,
+    "name" : "Benelli 1130 TNT R160 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3087/1130-TNT-R160-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-R-160-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 14895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 3088,
+    "name" : "Benelli TnT 1130 CAFE RACER 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3088/TnT-1130-CAFE-RACER-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3074,
+    "name" : "Benelli TnT 1130 CENTURY RACER 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3074/TnT-1130-CENTURY-RACER-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-century-racer-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15000,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3089,
+    "name" : "Benelli TnT 899 Cafe Racer 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3089/TnT-899-Cafe-Racer-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-Cafe-Racer-2009.jpg",
+    "year" : "2011",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 11795,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "9 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3247,
+    "name" : "Benelli TnT 899 Century Racer 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3247/TnT-899-Century-Racer-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-Century-Racer-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "9 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3090,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3090/TnT-899-Tonado-Naked-Tre-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-2008.jpg",
+    "year" : "2011",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 9900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 3248,
+    "name" : "Benelli 1130 TRE-K 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3248/1130-TRE-K-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 3246,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3246/1130-TRE-K-AMAZONAS-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13360,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 3249,
+    "name" : "Benelli 899 Tre-K 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/3249/899-Tre-K-2011/contact.html",
+    "urlImgMotoplanete" : "nc",
+    "year" : "2011",
+    "maxSpeed" : 220,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "monoamortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "double ACT",
+      "power" : "115 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.87 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillus tubulaire relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2183,
+      "wheelbase" : 1515,
+      "width" : 850,
+      "height" : 1320.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1644,
+    "name" : "Benelli Tornado 1130 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1644/Tornado-1130-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-tornado-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 290,
+    "zeroToHundred" : null,
+    "price" : 14980,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.4 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "163 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 18.0,
+      "lenght" : 2039,
+      "wheelbase" : 1419,
+      "width" : 717,
+      "height" : 1153.0,
+      "movingWeight" : 212.0
+    }
+  }, {
+    "id" : 1643,
+    "name" : "Benelli 1130 TNT R160 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1643/1130-TNT-R160-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-R-160-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 250,
+    "zeroToHundred" : null,
+    "price" : 14895,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque wave Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques wave Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 8400 tr/min",
+      "act" : "2 ACT",
+      "power" : "158 ch à 10200 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1131 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 208.0,
+      "seatHeight" : 820.0,
+      "type" : " Tubulaire périmétrique relié à des platines en alu",
+      "tankCapacity" : 16.0,
+      "lenght" : 2085,
+      "wheelbase" : 1435,
+      "width" : 790,
+      "height" : 1095.0,
+      "movingWeight" : 225.0
+    }
+  }, {
+    "id" : 2085,
+    "name" : "Benelli 1130 TnT SPORT Evo 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2085/1130-TnT-SPORT-Evo-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14800,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.42 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2064,
+    "name" : "Benelli TnT 1130 CAFE RACER 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2064/TnT-1130-CAFE-RACER-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2076,
+    "name" : "Benelli TnT 899 Cafe Racer 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2076/TnT-899-Cafe-Racer-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-Cafe-Racer-2009.jpg",
+    "year" : "2010",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 11795,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "9 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2079,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2079/TnT-899-Tonado-Naked-Tre-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 9900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2067,
+    "name" : "Benelli 1130 TRE-K 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2067/1130-TRE-K-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 2065,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2065/1130-TRE-K-AMAZONAS-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13360,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 2066,
+    "name" : "Benelli 899 Tre-K 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2066/899-Tre-K-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/899-tre-K-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 220,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "monoamortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "double ACT",
+      "power" : "115 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.87 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillus tubulaire relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2183,
+      "wheelbase" : 1515,
+      "width" : 850,
+      "height" : 1320.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1135,
+    "name" : "Benelli Tornado 1130 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1135/Tornado-1130-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-tornado-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 290,
+    "zeroToHundred" : null,
+    "price" : 14980,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.4 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "163 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 18.0,
+      "lenght" : 2039,
+      "wheelbase" : 1419,
+      "width" : 717,
+      "height" : 1153.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2084,
+    "name" : "Benelli 1130 TnT SPORT Evo 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2084/1130-TnT-SPORT-Evo-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15995,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.42 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2063,
+    "name" : "Benelli TnT 1130 CAFE RACER 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2063/TnT-1130-CAFE-RACER-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2072,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre TITANIUM 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2072/TnT-1130-Tornado-Naked-Tre-TITANIUM-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-1130-Titanium-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 22495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "141 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.37 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 820,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2075,
+    "name" : "Benelli TnT 899 Cafe Racer 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2075/TnT-899-Cafe-Racer-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-Cafe-Racer-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 11795,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "9 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2078,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2078/TnT-899-Tonado-Naked-Tre-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 9900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 1150,
+    "name" : "Benelli 1130 TRE-K 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1150/1130-TRE-K-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 12660,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1152,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1152/1130-TRE-K-AMAZONAS-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13360,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 126,
+    "name" : "Benelli 899 Tre-K 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/126/899-Tre-K-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/899-tre-K-2009.jpg",
+    "year" : "2009",
+    "maxSpeed" : 220,
+    "zeroToHundred" : null,
+    "price" : 9990,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "monoamortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "double ACT",
+      "power" : "115 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.87 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillus tubulaire relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2183,
+      "wheelbase" : 1515,
+      "width" : 850,
+      "height" : 1320.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1134,
+    "name" : "Benelli Tornado 1130 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1134/Tornado-1130-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-tornado-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 290,
+    "zeroToHundred" : null,
+    "price" : 14980,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.4 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "163 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 18.0,
+      "lenght" : 2039,
+      "wheelbase" : 1419,
+      "width" : 717,
+      "height" : 1153.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2083,
+    "name" : "Benelli 1130 TnT SPORT Evo 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2083/1130-TnT-SPORT-Evo-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15995,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.42 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2062,
+    "name" : "Benelli TnT 1130 CAFE RACER 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2062/TnT-1130-CAFE-RACER-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2071,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre TITANIUM 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2071/TnT-1130-Tornado-Naked-Tre-TITANIUM-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-1130-Titanium-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 22495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "141 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.37 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 820,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2077,
+    "name" : "Benelli TnT 899 Tonado Naked Tre 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2077/TnT-899-Tonado-Naked-Tre-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-899-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 9900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "7.9 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "120 ch à 10000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "899 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.66 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 1149,
+    "name" : "Benelli 1130 TRE-K 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1149/1130-TRE-K-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 12660,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1151,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2008",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1151/1130-TRE-K-AMAZONAS-2008/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2008.jpg",
+    "year" : "2008",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13360,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 1133,
+    "name" : "Benelli Tornado 1130 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1133/Tornado-1130-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-tornado-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 290,
+    "zeroToHundred" : null,
+    "price" : 14980,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.4 mkg à 8000 tr/min",
+      "act" : "2 ACT",
+      "power" : "163 ch à 10500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 18.0,
+      "lenght" : 2039,
+      "wheelbase" : 1419,
+      "width" : 717,
+      "height" : 1153.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2082,
+    "name" : "Benelli 1130 TnT SPORT Evo 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2082/1130-TnT-SPORT-Evo-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15995,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.42 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2061,
+    "name" : "Benelli TnT 1130 CAFE RACER 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2061/TnT-1130-CAFE-RACER-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2058,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2058/TnT-1130-Tornado-Naked-Tre-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "135 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.47 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2070,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre TITANIUM 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2070/TnT-1130-Tornado-Naked-Tre-TITANIUM-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-1130-Titanium-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 22495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "141 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.37 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 820,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 1148,
+    "name" : "Benelli 1130 TRE-K 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/1148/1130-TRE-K-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 230,
+    "zeroToHundred" : null,
+    "price" : 12660,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique",
+      "torque" : "11.4 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "125 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.64 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 205.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 20.5,
+      "lenght" : 2255,
+      "wheelbase" : 1514,
+      "width" : 790,
+      "height" : 1362.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 585,
+    "name" : "Benelli 1130 TRE-K AMAZONAS 2007",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/585/1130-TRE-K-AMAZONAS-2007/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TRE-K-AMAZONAS-2007.jpg",
+    "year" : "2007",
+    "maxSpeed" : 200,
+    "zeroToHundred" : null,
+    "price" : 13360,
+    "category" : "Trail",
+    "rearAxle" : {
+      "rearShock" : "Monoamortisseur, déb : 180 mm",
+      "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "fourche téléhydraulique inversée Ø 48 mm, déb : 175 mm",
+      "frontShock" : null,
+      "frontWheel" : "110 / 80 - 19\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection électronique Ø 53 mm",
+      "torque" : "11.4 mkg à 5000 tr/min",
+      "act" : "2 ACT",
+      "power" : "123 ch à 9000 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 vitesses",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 215.0,
+      "seatHeight" : 840.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2200,
+      "wheelbase" : 1530,
+      "width" : 865,
+      "height" : 1370.0,
+      "movingWeight" : 240.0
+    }
+  }, {
+    "id" : 2081,
+    "name" : "Benelli 1130 TnT SPORT 2006",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2081/1130-TnT-SPORT-2006/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2006.jpg",
+    "year" : "2006",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15995,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.41 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1419,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2060,
+    "name" : "Benelli TnT 1130 CAFE RACER 2006",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2060/TnT-1130-CAFE-RACER-2006/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2006.jpg",
+    "year" : "2006",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2057,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre 2006",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2057/TnT-1130-Tornado-Naked-Tre-2006/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-2006.jpg",
+    "year" : "2006",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "135 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.47 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2069,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre TITANIUM 2006",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2069/TnT-1130-Tornado-Naked-Tre-TITANIUM-2006/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-1130-Titanium-2006.jpg",
+    "year" : "2006",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 22495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "143 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.35 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1419,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2074,
+    "name" : "Benelli Tornado 900 RS 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2074/Tornado-900-RS-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-tornado-RS-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 260,
+    "zeroToHundred" : null,
+    "price" : 20461,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur Extreme Technology, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "9.8 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "142 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.37 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2170,
+      "wheelbase" : 1419,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 2089,
+    "name" : "Benelli Tornado 900 Tre 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2089/Tornado-900-Tre-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-tornado-tre-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 280,
+    "zeroToHundred" : 3.3,
+    "price" : 18879,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "9.8 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "138 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 198.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2040,
+      "wheelbase" : 1419,
+      "width" : 770,
+      "height" : null,
+      "movingWeight" : 223.0
+    }
+  }, {
+    "id" : 2080,
+    "name" : "Benelli 1130 TnT SPORT 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2080/1130-TnT-SPORT-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/1130-TnT-sport-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 15995,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "Bicylindre en ligne, 4 temps",
+      "powerToWeightRatio" : "1.41 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1419,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2059,
+    "name" : "Benelli TnT 1130 CAFE RACER 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2059/TnT-1130-CAFE-RACER-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-cafe-racer-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 14490,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "11.2 mkg à 7750 tr/min",
+      "act" : "2 ACT",
+      "power" : "137 ch à 9500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 196.0,
+      "seatHeight" : 820.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 16.0,
+      "lenght" : 2128,
+      "wheelbase" : 1443,
+      "width" : 750,
+      "height" : 1050.0,
+      "movingWeight" : 215.0
+    }
+  }, {
+    "id" : 2056,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2056/TnT-1130-Tornado-Naked-Tre-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "135 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.47 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2068,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre TITANIUM 2005",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2068/TnT-1130-Tornado-Naked-Tre-TITANIUM-2005/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TnT-1130-Titanium-2005.jpg",
+    "year" : "2005",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 22495,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons fixation radiale"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6750 tr/min",
+      "act" : "2 ACT",
+      "power" : "143 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.35 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 193.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2128,
+      "wheelbase" : 1419,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : 213.0
+    }
+  }, {
+    "id" : 2073,
+    "name" : "Benelli Tornado 900 RS 2004",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2073/Tornado-900-RS-2004/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-tornado-RS-2004.jpg",
+    "year" : "2004",
+    "maxSpeed" : 260,
+    "zeroToHundred" : null,
+    "price" : 20461,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur Extreme Technology, déb : 115 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "9.8 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "142 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.37 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 195.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2170,
+      "wheelbase" : 1419,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : 220.0
+    }
+  }, {
+    "id" : 2088,
+    "name" : "Benelli Tornado 900 Tre 2004",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2088/Tornado-900-Tre-2004/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-tornado-tre-2004.jpg",
+    "year" : "2004",
+    "maxSpeed" : 280,
+    "zeroToHundred" : 3.3,
+    "price" : 18879,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "9.8 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "138 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 198.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2040,
+      "wheelbase" : 1419,
+      "width" : 770,
+      "height" : null,
+      "movingWeight" : 223.0
+    }
+  }, {
+    "id" : 2053,
+    "name" : "Benelli TnT 1130 Tornado Naked Tre 2004",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2053/TnT-1130-Tornado-Naked-Tre-2004/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/TNT-1130-2004.jpg",
+    "year" : "2004",
+    "maxSpeed" : 240,
+    "zeroToHundred" : null,
+    "price" : 12900,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 53 mm",
+      "torque" : "12 mkg à 6500 tr/min",
+      "act" : "2 ACT",
+      "power" : "135 ch à 9250 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "1130 cc (88 x 62 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.47 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 199.0,
+      "seatHeight" : 780.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 17.0,
+      "lenght" : 2100,
+      "wheelbase" : 1443,
+      "width" : 790,
+      "height" : 1050.0,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2087,
+    "name" : "Benelli Tornado 900 Tre 2003",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2087/Tornado-900-Tre-2003/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-tornado-tre-2003.jpg",
+    "year" : "2003",
+    "maxSpeed" : 280,
+    "zeroToHundred" : 3.3,
+    "price" : 18879,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "190 / 50 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "9.8 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "138 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaîne",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 198.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tube d'acier relié à des éléments de fonderie",
+      "tankCapacity" : 22.0,
+      "lenght" : 2040,
+      "wheelbase" : 1419,
+      "width" : 770,
+      "height" : null,
+      "movingWeight" : 223.0
+    }
+  }, {
+    "id" : 2086,
+    "name" : "Benelli 900 Tornado Limited Edition 2002",
+    "urlMotoplanete" : "http://www.motoplanete.com/benelli/2086/900-Tornado-Limited-Edition-2002/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/benelli/900-Tornado-limited-edition.jpg",
+    "year" : "2002",
+    "maxSpeed" : 280,
+    "zeroToHundred" : null,
+    "price" : 36000,
+    "category" : "Sportive",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur Öhlins",
+      "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Öhlins Ø 46 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection",
+      "torque" : "10 mkg à 8500 tr/min",
+      "act" : "2 ACT",
+      "power" : "143 ch à 11500 tr/min",
+      "cooling" : "Refroidissement liquide",
+      "displacement" : "898 cc (88 x 49.2 mm)",
+      "type" : "3 Cylindres en ligne, 4 temps",
+      "powerToWeightRatio" : "1.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "chaine",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 185.0,
+      "seatHeight" : 810.0,
+      "type" : " treillis en tubes d'acier avec platines en aluminium",
+      "tankCapacity" : 19.0,
+      "lenght" : 2040,
+      "wheelbase" : 1419,
+      "width" : 770,
+      "height" : null,
+      "movingWeight" : null
+    }
+  } ]
+}
