@@ -71,6 +71,37 @@ $app->get('/manufacture/{id}', function ($id) use ($app, $pdo) {
 	return json_encode($arrayManufactures);
 });
 
+$app->get('/bike/recent', function ($id) use ($app, $pdo) {
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['bikes'] = array();
+
+  	$query = "SELECT * FROM bike
+  	ORDER BY date_added DESC
+  	LIMIT 5";
+
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = utf8_encode($resultat['name']);
+	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
+	  		$manuf['date'] = utf8_encode($resultat['date_added']);
+	  		
+
+	  		array_push($arrayManufactures['bikes'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+	return json_encode($arrayManufactures);
+});
+
 $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 	$arrayManufactures = array();
 	$arrayManufactures['success'] = 1;
@@ -92,7 +123,7 @@ $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 		$pdo->setAttribute(PDO::ATTR_FETCH_TABLE_NAMES, true);
 	  	$result = $pdo->query($query);
 	  	$resultat = $result->fetch();
-		//echo '<pre>'; var_dump($resultat); echo '</pre>';
+
 		$arrayManufactures['bike']['id'] = $resultat['b.id'];
 		$arrayManufactures['bike']['name'] = $resultat['b.name'];
 		$arrayManufactures['bike']['max_speed'] = $resultat['b.max_speed'];
@@ -134,22 +165,6 @@ $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 		$arrayManufactures['bike']['frame']['width'] = utf8_encode($resultat['frm.width']);
 		$arrayManufactures['bike']['frame']['height'] = utf8_encode($resultat['frm.height']);
 		$arrayManufactures['bike']['frame']['moving_weight'] = utf8_encode($resultat['frm.moving_weight']);
-
-
-
-
-
-
-		//$arrayManufactures['bike']['rear']['rear_shock'] = utf8_encode($resultat['rear.rear_shock']);
-		
-
-		/*$rear_axle['rear_brake'] = $resultat['rear.rear_brake'];
-		$rear_axle['rear_wheel'] = $resultat['rear.rear_wheel'];
-		$rear_axle['type'] = $resultat['rear.type'];
-
-		$arrayManufactures['bike']['rear_axle'] = $rear_axle;*/
-		//array_push($arrayManufactures['bike']['rear_axle'], $rear_axle);
-
 
 	  	$pdo->setAttribute(PDO::ATTR_FETCH_TABLE_NAMES, false);
   	}
