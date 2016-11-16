@@ -19,7 +19,7 @@ $app->get('/hello/{name}', function($name) use ($app) {
 	return '<h1>Hello ' . $name . '</h1>';
 });
 
-$app->get('/manufactures', function (Request $request) use ($app, $pdo) {
+$app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
 	$name = $request->get('filter');
 	
 	$arrayManufactures = array();
@@ -46,7 +46,7 @@ $app->get('/manufactures', function (Request $request) use ($app, $pdo) {
 	return json_encode($arrayManufactures);
 });
 
-$app->get('/manufacture/{id}', function ($id) use ($app, $pdo) {
+$app->get('/manufacturer/{id}/bike', function ($id) use ($app, $pdo) {
 	$arrayManufactures = array();
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
@@ -101,6 +101,36 @@ $app->get('/bike/recent', function ($id) use ($app, $pdo) {
   	}
 	return json_encode($arrayManufactures);
 });
+
+$app->get('/bike', function (Request $request, $id) use ($app, $pdo) {
+	$name = $request->get('filter');
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['bikes'] = array();
+
+  	$query = "SELECT * FROM bike
+  	WHERE name LIKE '%".$name."%'";
+
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = utf8_encode($resultat['name']);
+	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
+
+	  		array_push($arrayManufactures['bikes'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+	return json_encode($arrayManufactures);
+});
+
 
 $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 	$arrayManufactures = array();
