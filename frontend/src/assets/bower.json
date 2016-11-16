@@ -1,0 +1,24 @@
+{
+  "name": "angularjs",
+  "authors": [
+    "jumpt57 <jumpt57@github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "materialize": "^0.97.8",
+    "font-awesome": "^4.7.0"
+  }
+}

@@ -1,0 +1,19 @@
+http://comparateur.anarkhief.fr/web/index.php/bike/recent
+
+	Retourne une liste des 5 motos les plus récemment ajoutées.
+
+http://comparateur.anarkhief.fr/web/index.php/bike/{id}
+	
+	Retourne le détail d'une moto
+
+http://comparateur.anarkhief.fr/web/index.php/bike?filter={filtre}
+
+	Recherche des motos en fonction du filtre par rapport au nom de la moto 
+
+http://comparateur.anarkhief.fr/web/index.php/manufacturers
+
+	Retourne la liste des fabricants
+
+http://comparateur.anarkhief.fr/web/index.php/manufacturer/{id}/bike
+
+	Retourne la liste des motos d'un fabricant

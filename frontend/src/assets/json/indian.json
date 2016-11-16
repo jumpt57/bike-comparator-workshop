@@ -1,0 +1,2553 @@
+{
+  "@name" : 1,
+  "id" : 43,
+  "name" : "indian",
+  "years" : [ "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009" ],
+  "imgUrl" : "http://www.motoplanete.com/indian/indian-logo.jpg",
+  "url" : "http://www.motoplanete.com/constructeurs/constructeur/43/2016/indian.php",
+  "bikes" : [ {
+    "id" : 6081,
+    "name" : "Indian 1811 ROADMASTER 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6081/1811-ROADMASTER-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Roadmaster-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 30000,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 4 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "injection Ø nc",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.51 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 406.0,
+      "seatHeight" : 673.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 21.0,
+      "lenght" : 2656,
+      "wheelbase" : 1669,
+      "width" : 1012,
+      "height" : 1572.0,
+      "movingWeight" : 421.0
+    }
+  }, {
+    "id" : 6075,
+    "name" : "Indian 1133 SCOUT 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6075/1133-SCOUT-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1133-scout-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 13800,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10 mkg à 5900 tr/min",
+      "act" : "2 ACT",
+      "power" : "100 ch à 8000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "1133 cc (73.6 x 99 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.44 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 244.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 253.0
+    }
+  }, {
+    "id" : 6076,
+    "name" : "Indian 1811 CHIEF CLASSIC 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6076/1811-CHIEF-CLASSIC-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-classic-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22900,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 354.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 370.0
+    }
+  }, {
+    "id" : 6073,
+    "name" : "Indian 1811 CHIEF DARK HORSE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6073/1811-CHIEF-DARK-HORSE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-chief-dark-horse-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22800,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.79 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 357.0
+    }
+  }, {
+    "id" : 6077,
+    "name" : "Indian 1811 CHIEF VINTAGE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6077/1811-CHIEF-VINTAGE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 26900,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.55 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 6080,
+    "name" : "Indian 1811 CHIEFTAIN 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6080/1811-CHIEFTAIN-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 28000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.11 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 370.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1022,
+      "height" : 1529.0,
+      "movingWeight" : 385.0
+    }
+  }, {
+    "id" : 6079,
+    "name" : "Indian 1811 CHIEFTAIN DARK HORSE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6079/1811-CHIEFTAIN-DARK-HORSE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-black-horse-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.04 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1000,
+      "height" : 1388.0,
+      "movingWeight" : 380.0
+    }
+  }, {
+    "id" : 6078,
+    "name" : "Indian 1811 SPRINGFIELD 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6078/1811-SPRINGFIELD-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Springfield-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27200,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.13 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 372.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2583,
+      "wheelbase" : 1701,
+      "width" : 990,
+      "height" : 1442.0,
+      "movingWeight" : 388.0
+    }
+  }, {
+    "id" : 6074,
+    "name" : "Indian 999 SCOUT Sixty 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6074/999-SCOUT-Sixty-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-999-scout-sixty-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 12000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "9.1 mkg à 5600 tr/min",
+      "act" : "2 ACT",
+      "power" : "78 ch à 7300 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "999 cc (73.6 x 93 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 246.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 256.0
+    }
+  }, {
+    "id" : 5830,
+    "name" : "Indian 1811 CHIEF VINTAGE edition JACK DANIEL'S 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5830/1811-CHIEF-VINTAGE-edition-JACK-DANIELS-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2016-jack-daniels.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 30000,
+    "category" : "Série spéciale",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.04 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 6081,
+    "name" : "Indian 1811 ROADMASTER 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6081/1811-ROADMASTER-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Roadmaster-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 30000,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 4 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "injection Ø nc",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.51 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 406.0,
+      "seatHeight" : 673.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 21.0,
+      "lenght" : 2656,
+      "wheelbase" : 1669,
+      "width" : 1012,
+      "height" : 1572.0,
+      "movingWeight" : 421.0
+    }
+  }, {
+    "id" : 5593,
+    "name" : "Indian 1811 ROADMASTER 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5593/1811-ROADMASTER-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Roadmaster-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 29400,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 4 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "injection Ø nc",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.51 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 406.0,
+      "seatHeight" : 673.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 21.0,
+      "lenght" : 2656,
+      "wheelbase" : 1669,
+      "width" : 1012,
+      "height" : 1572.0,
+      "movingWeight" : 421.0
+    }
+  }, {
+    "id" : 6075,
+    "name" : "Indian 1133 SCOUT 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6075/1133-SCOUT-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1133-scout-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 13800,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10 mkg à 5900 tr/min",
+      "act" : "2 ACT",
+      "power" : "100 ch à 8000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "1133 cc (73.6 x 99 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.44 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 244.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 253.0
+    }
+  }, {
+    "id" : 6076,
+    "name" : "Indian 1811 CHIEF CLASSIC 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6076/1811-CHIEF-CLASSIC-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-classic-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22900,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 354.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 370.0
+    }
+  }, {
+    "id" : 6073,
+    "name" : "Indian 1811 CHIEF DARK HORSE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6073/1811-CHIEF-DARK-HORSE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-chief-dark-horse-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22800,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.79 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 357.0
+    }
+  }, {
+    "id" : 6077,
+    "name" : "Indian 1811 CHIEF VINTAGE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6077/1811-CHIEF-VINTAGE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 26900,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.55 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 6080,
+    "name" : "Indian 1811 CHIEFTAIN 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6080/1811-CHIEFTAIN-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 28000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.11 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 370.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1022,
+      "height" : 1529.0,
+      "movingWeight" : 385.0
+    }
+  }, {
+    "id" : 6079,
+    "name" : "Indian 1811 CHIEFTAIN DARK HORSE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6079/1811-CHIEFTAIN-DARK-HORSE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-black-horse-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.04 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1000,
+      "height" : 1388.0,
+      "movingWeight" : 380.0
+    }
+  }, {
+    "id" : 6078,
+    "name" : "Indian 1811 SPRINGFIELD 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6078/1811-SPRINGFIELD-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Springfield-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27200,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.13 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 372.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2583,
+      "wheelbase" : 1701,
+      "width" : 990,
+      "height" : 1442.0,
+      "movingWeight" : 388.0
+    }
+  }, {
+    "id" : 6074,
+    "name" : "Indian 999 SCOUT Sixty 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/6074/999-SCOUT-Sixty-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-999-scout-sixty-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 12000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "9.1 mkg à 5600 tr/min",
+      "act" : "2 ACT",
+      "power" : "78 ch à 7300 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "999 cc (73.6 x 93 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : "Moto accessible au permis A2 ou bridable à 48ch"
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 246.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 256.0
+    }
+  }, {
+    "id" : 5594,
+    "name" : "Indian 1811 CHIEF CLASSIC 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5594/1811-CHIEF-CLASSIC-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-classic-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22600,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 354.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 370.0
+    }
+  }, {
+    "id" : 5398,
+    "name" : "Indian 1811 CHIEF DARK HORSE 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5398/1811-CHIEF-DARK-HORSE-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-chief-dark-horse-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 22600,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.79 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 357.0
+    }
+  }, {
+    "id" : 5595,
+    "name" : "Indian 1811 CHIEF VINTAGE 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5595/1811-CHIEF-VINTAGE-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 26700,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.55 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 5596,
+    "name" : "Indian 1811 CHIEFTAIN 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5596/1811-CHIEFTAIN-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27550,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.11 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 370.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1022,
+      "height" : 1529.0,
+      "movingWeight" : 385.0
+    }
+  }, {
+    "id" : 5955,
+    "name" : "Indian 1811 CHIEFTAIN DARK HORSE 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5955/1811-CHIEFTAIN-DARK-HORSE-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-black-horse-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.04 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1000,
+      "height" : 1388.0,
+      "movingWeight" : 380.0
+    }
+  }, {
+    "id" : 5853,
+    "name" : "Indian 1811 SPRINGFIELD 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5853/1811-SPRINGFIELD-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Springfield-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 27000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "14.1 mkg à 2600 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.13 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 372.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2583,
+      "wheelbase" : 1701,
+      "width" : 990,
+      "height" : 1442.0,
+      "movingWeight" : 388.0
+    }
+  }, {
+    "id" : 5678,
+    "name" : "Indian 999 SCOUT Sixty 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5678/999-SCOUT-Sixty-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-999-scout-sixty-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 11990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "9.1 mkg à 5600 tr/min",
+      "act" : "2 ACT",
+      "power" : "78 ch à 7300 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "999 cc (73.6 x 93 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "5 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 246.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 256.0
+    }
+  }, {
+    "id" : 5099,
+    "name" : "Indian 1811 ROADMASTER 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5099/1811-ROADMASTER-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1811-Roadmaster-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 27990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 4 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "injection Ø nc",
+      "torque" : "16.5 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "5.08 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 406.0,
+      "seatHeight" : 673.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 21.0,
+      "lenght" : 2656,
+      "wheelbase" : 1669,
+      "width" : 1012,
+      "height" : 1572.0,
+      "movingWeight" : 421.0
+    }
+  }, {
+    "id" : 5101,
+    "name" : "Indian 1133 SCOUT 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5101/1133-SCOUT-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1133-scout-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 12990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étriers 1 piston",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10 mkg à 5900 tr/min",
+      "act" : "2 ACT",
+      "power" : "100 ch à 8000 tr/min",
+      "cooling" : "par eau",
+      "displacement" : "1133 cc (73.6 x 99 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.44 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 244.0,
+      "seatHeight" : 643.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 12.1,
+      "lenght" : 2311,
+      "wheelbase" : 1562,
+      "width" : 880,
+      "height" : 1207.0,
+      "movingWeight" : 253.0
+    }
+  }, {
+    "id" : 5084,
+    "name" : "Indian 1811 CHIEF CLASSIC 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5084/1811-CHIEF-CLASSIC-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-classic-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 23595,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.5 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 354.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 370.0
+    }
+  }, {
+    "id" : 5085,
+    "name" : "Indian 1811 CHIEF VINTAGE 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5085/1811-CHIEF-VINTAGE-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 25399,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.3 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.55 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 5086,
+    "name" : "Indian 1811 CHIEFTAIN 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/5086/1811-CHIEFTAIN-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 26999,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.3 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.63 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 370.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1022,
+      "height" : 1529.0,
+      "movingWeight" : 385.0
+    }
+  }, {
+    "id" : 4674,
+    "name" : "Indian 1811 CHIEF CLASSIC 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4674/1811-CHIEF-CLASSIC-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-classic-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 23895,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.5 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 90 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "3.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 354.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2630,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1176.0,
+      "movingWeight" : 370.0
+    }
+  }, {
+    "id" : 4676,
+    "name" : "Indian 1811 CHIEF VINTAGE 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4676/1811-CHIEF-VINTAGE-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chief-vintage-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 25699,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 94 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 65 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.3 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.55 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 364.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2634,
+      "wheelbase" : 1730,
+      "width" : 1012,
+      "height" : 1490.0,
+      "movingWeight" : 379.0
+    }
+  }, {
+    "id" : 4675,
+    "name" : "Indian 1811 CHIEFTAIN 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4675/1811-CHIEFTAIN-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1811-chieftain-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 26199,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 114 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier à 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø nc, déb : 119 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 54 mm",
+      "torque" : "16.3 mkg à 3000 tr/min",
+      "act" : null,
+      "power" : "≈ 80 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1811 cc (101 x 113 mm)",
+      "type" : "Bicylindre en V à 49°, 4 temps",
+      "powerToWeightRatio" : "4.63 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 370.0,
+      "seatHeight" : 660.0,
+      "type" : " en aluminium moulé",
+      "tankCapacity" : 20.8,
+      "lenght" : 2571,
+      "wheelbase" : 1668,
+      "width" : 1022,
+      "height" : 1529.0,
+      "movingWeight" : 385.0
+    }
+  }, {
+    "id" : 4333,
+    "name" : "Indian 1720 CHIEF VINTAGE LE 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4333/1720-CHIEF-VINTAGE-LE-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1720-chief-vintage-L-E-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 45000,
+    "category" : "Série spéciale",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers à 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100.73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  }, {
+    "id" : 4030,
+    "name" : "Indian 1720 CHIEF CLASSIC 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4030/1720-CHIEF-CLASSIC-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-classic-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 30000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.65 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 330.2,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4029,
+    "name" : "Indian 1720 CHIEF DARK HORSE 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4029/1720-CHIEF-DARK-HORSE-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-dark-horse-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 31000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.94 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 350.6,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4028,
+    "name" : "Indian 1720 CHIEF VINTAGE 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4028/1720-CHIEF-VINTAGE-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-Chief-Vintage-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 40000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  }, {
+    "id" : 3004,
+    "name" : "Indian 1720 CHIEF BLACKHAWK 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/3004/1720-CHIEF-BLACKHAWK-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/indian-1720-chief-blackhawk-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 32000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier 1 piston",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720 cc (101.5 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.93 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 350.0,
+      "seatHeight" : 704.0,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2552,
+      "wheelbase" : 1737,
+      "width" : 1028,
+      "height" : 1282.0,
+      "movingWeight" : 362.0
+    }
+  }, {
+    "id" : 4041,
+    "name" : "Indian 1720 CHIEF CLASSIC 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4041/1720-CHIEF-CLASSIC-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-classic-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 30000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.65 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 330.2,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4031,
+    "name" : "Indian 1720 CHIEF DARK HORSE 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4031/1720-CHIEF-DARK-HORSE-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-dark-horse-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 30990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.94 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 350.6,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3276,
+    "name" : "Indian 1720 CHIEF VINTAGE 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/3276/1720-CHIEF-VINTAGE-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-Chief-Vintage.jpg",
+    "year" : "2011",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 39990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  }, {
+    "id" : 3382,
+    "name" : "Indian 1720 CHIEF BOMBER 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/3382/1720-CHIEF-BOMBER-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-Chief-Bomber.jpg",
+    "year" : "2010",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 32000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  }, {
+    "id" : 4040,
+    "name" : "Indian 1720 CHIEF CLASSIC 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4040/1720-CHIEF-CLASSIC-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-classic-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 29990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.65 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 330.2,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4032,
+    "name" : "Indian 1720 CHIEF DARK HORSE 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/4032/1720-CHIEF-DARK-HORSE-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-dark-horse-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 30990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.94 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 350.6,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3275,
+    "name" : "Indian 1720 CHIEF VINTAGE 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/3275/1720-CHIEF-VINTAGE-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-Chief-Vintage.jpg",
+    "year" : "2010",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 39990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  }, {
+    "id" : 3274,
+    "name" : "Indian 1720 CHIEF VINTAGE 2009",
+    "urlMotoplanete" : "http://www.motoplanete.com/indian/3274/1720-CHIEF-VINTAGE-2009/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/indian/Indian-1720-Chief-Vintage.jpg",
+    "year" : "2009",
+    "maxSpeed" : 150,
+    "zeroToHundred" : null,
+    "price" : 39990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 73 mm",
+      "rearBrake" : "1 disque Ø 292 mm, étrier à 2 pistons",
+      "rearWheel" : "150 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 108 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "2 disques Ø 292 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø nc",
+      "torque" : "13.8 mkg à 2400 tr/min",
+      "act" : null,
+      "power" : "71 ch à 4500 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1720.6 cc (100,73 x 107.95 mm)",
+      "type" : "Bicylindre en V à 45°, 4 temps",
+      "powerToWeightRatio" : "4.81 kg/ch",
+      "valve" : "2 soupapes par cylindre",
+      "valveCommand" : "culbuté",
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 341.5,
+      "seatHeight" : 708.4,
+      "type" : " simple berceau tubulaire en acier",
+      "tankCapacity" : 21.0,
+      "lenght" : 2553,
+      "wheelbase" : 1737,
+      "width" : 1029,
+      "height" : 1282.7,
+      "movingWeight" : 375.0
+    }
+  } ]
+}
