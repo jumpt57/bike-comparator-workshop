@@ -1,0 +1,5203 @@
+{
+  "@name" : 1,
+  "id" : 26,
+  "name" : "victory",
+  "years" : [ "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010" ],
+  "imgUrl" : "http://www.motoplanete.com/victory/victory-logo-2013.png",
+  "url" : "http://www.motoplanete.com/constructeurs/constructeur/26/2016/victory.php",
+  "bikes" : [ {
+    "id" : 6129,
+    "name" : "Victory 1200 OCTANE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6129/1200-OCTANE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1200-Octane-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 200,
+    "zeroToHundred" : 4.0,
+    "price" : 13000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étrier 1 piston",
+      "rearWheel" : "160 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "1 disque Ø 298 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10.1 mkg à 6000 tr/min",
+      "act" : "2 ACT",
+      "power" : "104 ch à 8000 tr/min",
+      "cooling" : "par air et huile",
+      "displacement" : "1179.3 cc (101 x 73.6 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.34 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 243.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre poutre en aluminium",
+      "tankCapacity" : 12.9,
+      "lenght" : 2270,
+      "wheelbase" : 1565,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6127,
+    "name" : "Victory 1700 GUNNER 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6127/1700-GUNNER-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_gunner_2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 13600,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 294.0,
+      "seatHeight" : 635.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6128,
+    "name" : "Victory 1700 HIGH BALL 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6128/1700-HIGH-BALL-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_high_ball_2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 15300,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140/ 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.33 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 306.0,
+      "seatHeight" : 635.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6126,
+    "name" : "Victory 1700 JUDGE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6126/1700-JUDGE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2017.jpg",
+    "year" : "2017",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16500,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5524,
+    "name" : "Victory Empulse TT 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5524/Empulse-TT-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-Empulse-TT-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 161,
+    "zeroToHundred" : null,
+    "price" : 21500,
+    "category" : "Roadster",
+    "rearAxle" : {
+      "rearShock" : "mono-amortisseur",
+      "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
+      "rearWheel" : "160 / 60 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 17\"",
+      "frontBrake" : "2 disques Ø 310 mm, étriers radiaux 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : null,
+      "torque" : null,
+      "act" : null,
+      "power" : "54 ch",
+      "cooling" : null,
+      "displacement" : null,
+      "type" : "Electrique en ligne",
+      "powerToWeightRatio" : "3.94 kg/ch",
+      "valve" : null,
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "à 6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : null,
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 213.0,
+      "seatHeight" : 800.0,
+      "type" : null,
+      "tankCapacity" : null,
+      "lenght" : 2065,
+      "wheelbase" : 1473,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5598,
+    "name" : "Victory 1700 CROSS COUNTRY 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5598/1700-CROSS-COUNTRY-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700_cross_country_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21000,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2650,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5597,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5597/1700-CROSS-COUNTRY-TOUR-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_cross_country_tour_2016-380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 23300,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.16 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 383.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5600,
+    "name" : "Victory 1700 MAGNUM 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5600/1700-MAGNUM-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_magnum_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 22600,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 113 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 21\"",
+      "frontBrake" : "Double disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.95 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 363.0,
+      "seatHeight" : 654.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 22.0,
+      "lenght" : 2657,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5845,
+    "name" : "Victory 1700 MAGNUM X-1 Stealth Edition 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5845/1700-MAGNUM-X-1-Stealth-Edition-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/2016-1700-MAGNUM-X-1-STEALTH-EDITION-380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 24900,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 22.0,
+      "lenght" : 2650,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5603,
+    "name" : "Victory 1700 VISION 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5603/1700-VISION-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-vision-tour-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 24990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.28 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 394.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2629,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6129,
+    "name" : "Victory 1200 OCTANE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6129/1200-OCTANE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1200-Octane-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 200,
+    "zeroToHundred" : 4.0,
+    "price" : 13000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étrier 1 piston",
+      "rearWheel" : "160 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "1 disque Ø 298 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10.1 mkg à 6000 tr/min",
+      "act" : "2 ACT",
+      "power" : "104 ch à 8000 tr/min",
+      "cooling" : "par air et huile",
+      "displacement" : "1179.3 cc (101 x 73.6 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.34 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 243.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre poutre en aluminium",
+      "tankCapacity" : 12.9,
+      "lenght" : 2270,
+      "wheelbase" : 1565,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6127,
+    "name" : "Victory 1700 GUNNER 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6127/1700-GUNNER-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_gunner_2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 13600,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 294.0,
+      "seatHeight" : 635.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6128,
+    "name" : "Victory 1700 HIGH BALL 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6128/1700-HIGH-BALL-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_high_ball_2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 15300,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140/ 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.33 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 306.0,
+      "seatHeight" : 635.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 6126,
+    "name" : "Victory 1700 JUDGE 2017",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/6126/1700-JUDGE-2017/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2017.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16500,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5851,
+    "name" : "Victory 1200 OCTANE 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5851/1200-OCTANE-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1200-Octane-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 200,
+    "zeroToHundred" : 4.0,
+    "price" : 12950,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "2 amortisseurs latéraux, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 298 mm, étrier 1 piston",
+      "rearWheel" : "160 / 70 - 17\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 120 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "1 disque Ø 298 mm, étrier 2 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 60 mm",
+      "torque" : "10.1 mkg à 6000 tr/min",
+      "act" : "2 ACT",
+      "power" : "104 ch à 8000 tr/min",
+      "cooling" : "par air et huile",
+      "displacement" : "1179.3 cc (101 x 73.6 mm)",
+      "type" : "Bicylindre en V à 60°, 4 temps",
+      "powerToWeightRatio" : "2.34 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 243.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre poutre en aluminium",
+      "tankCapacity" : 12.9,
+      "lenght" : 2270,
+      "wheelbase" : 1565,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5606,
+    "name" : "Victory 1700 GUNNER 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5606/1700-GUNNER-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_gunner_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 13490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 294.0,
+      "seatHeight" : 635.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5607,
+    "name" : "Victory 1700 HAMMER 8 BALL 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5607/1700-HAMMER-8-BALL-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_hammer_8_ball_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 15550,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 303.0,
+      "seatHeight" : 660.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2382,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5608,
+    "name" : "Victory 1700 HAMMER S 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5608/1700-HAMMER-S-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_hammer_s_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 17850,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.33 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 306.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2382,
+      "wheelbase" : 1689,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5605,
+    "name" : "Victory 1700 HIGH BALL 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5605/1700-HIGH-BALL-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_high_ball_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 15150,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140/ 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.33 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 306.0,
+      "seatHeight" : 635.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5604,
+    "name" : "Victory 1700 JUDGE 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5604/1700-JUDGE-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2016.jpg",
+    "year" : "2016",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16200,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5602,
+    "name" : "Victory 1700 VEGAS 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5602/1700-VEGAS-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_vegas_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 13990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.23 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 297.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2462,
+      "wheelbase" : 1705,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5601,
+    "name" : "Victory 1700 VEGAS 8 BALL 2016",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5601/1700-VEGAS-8-BALL-2016/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory_1700_vegas_8_ball_2016_380px.jpg",
+    "year" : "2016",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 13450,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.23 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 297.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2462,
+      "wheelbase" : 1705,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5090,
+    "name" : "Victory 1700 CROSS COUNTRY 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5090/1700-CROSS-COUNTRY-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-2015-2.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19290,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5096,
+    "name" : "Victory 1700 CROSS COUNTRY 8 BALL 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5096/1700-CROSS-COUNTRY-8-BALL-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-8ball-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16000,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5092,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5092/1700-CROSS-COUNTRY-TOUR-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-cross-country-tour-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.17 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 384.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5089,
+    "name" : "Victory 1700 MAGNUM 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5089/1700-MAGNUM-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-magnum-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 22.0,
+      "lenght" : 2650,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5416,
+    "name" : "Victory 1700 MAGNUM X-1 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5416/1700-MAGNUM-X-1-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1700-magnum-X-1-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 23990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "120 / 70 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.75 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 22.0,
+      "lenght" : 2650,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5091,
+    "name" : "Victory 1700 VISION TOUR 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5091/1700-VISION-TOUR-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-vision-tour-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 23690,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.28 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 394.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2629,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5202,
+    "name" : "Victory 1700 BOARDWALK 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5202/1700-BOARDWALK-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-boardwalk-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16590,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "Simple disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "Simple disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.6 mkg à 2800 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "94 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.27 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 307.0,
+      "seatHeight" : 658.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.8,
+      "lenght" : 2457,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4966,
+    "name" : "Victory 1700 GUNNER 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4966/1700-GUNNER-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-Gunner-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.2 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 294.0,
+      "seatHeight" : 635.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2372,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5095,
+    "name" : "Victory 1700 HAMMER 8 BALL 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5095/1700-HAMMER-8-BALL-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-8-balls-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5204,
+    "name" : "Victory 1700 HAMMER S 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5204/1700-HAMMER-S-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-S-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5094,
+    "name" : "Victory 1700 HIGH BALL 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5094/1700-HIGH-BALL-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-high-ball-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14390,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5203,
+    "name" : "Victory 1700 JUDGE 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5203/1700-JUDGE-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 15090,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5093,
+    "name" : "Victory 1700 VEGAS 8 BALL 2015",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5093/1700-VEGAS-8-BALL-2015/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-vegas-8-ball-2015.jpg",
+    "year" : "2015",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4746,
+    "name" : "Victory 1700 CROSS COUNTRY 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4746/1700-CROSS-COUNTRY-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-2014-2.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection ï¿½ 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulu en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4739,
+    "name" : "Victory 1700 CROSS COUNTRY NESS 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4739/1700-CROSS-COUNTRY-NESS-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-ness-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 23290,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection ï¿½ 45 mm",
+      "torque" : "14 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulu en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4734,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4734/1700-CROSS-COUNTRY-TOUR-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-cross-country-tour-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21890,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.17 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 384.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4738,
+    "name" : "Victory 1700 CROSS ROADS CLASSIC 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4738/1700-CROSS-ROADS-CLASSIC-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-classic-2014-2.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18690,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.7 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 340.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4733,
+    "name" : "Victory 1700 VISION TOUR 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4733/1700-VISION-TOUR-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-vision-tour-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 23590,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.28 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 394.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2629,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4742,
+    "name" : "Victory 1700 BOARDWALK 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4742/1700-BOARDWALK-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-boardwalk-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "Simple disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "Simple disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.6 mkg à 2800 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "94 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.27 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 307.0,
+      "seatHeight" : 658.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.8,
+      "lenght" : 2457,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4749,
+    "name" : "Victory 1700 HAMMER 8 BALL 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4749/1700-HAMMER-8-BALL-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-8-balls-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4748,
+    "name" : "Victory 1700 HAMMER S 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4748/1700-HAMMER-S-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-S-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 5148,
+    "name" : "Victory 1700 HAMMER S 24 heures Le Mans Limited Edition 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/5148/1700-HAMMER-S-24-heures-Le-Mans-Limited-Edition-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-hammer-S-LE-2014-24-mans-2.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 0,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4750,
+    "name" : "Victory 1700 HAMMER S LE 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4750/1700-HAMMER-S-LE-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-hammer-S-LE-2014-2.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 17290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4745,
+    "name" : "Victory 1700 HIGH BALL 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4745/1700-HIGH-BALL-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-high-ball-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14090,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4747,
+    "name" : "Victory 1700 JACKPOT 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4747/1700-JACKPOT-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-jackpot-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 17465,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 296.0,
+      "seatHeight" : 653.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2435,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4743,
+    "name" : "Victory 1700 JUDGE 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4743/1700-JUDGE-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2014.jpg",
+    "year" : "2014",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4744,
+    "name" : "Victory 1700 VEGAS 8 BALL 2014",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4744/1700-VEGAS-8-BALL-2014/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-vegas-8-ball-2014-2.jpg",
+    "year" : "2014",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4527,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 15eme anniversaire 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4527/1700-CROSS-COUNTRY-TOUR-15eme-anniversaire-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-cross-country-tour-15eme-anni-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 26690,
+    "category" : "Série spéciale",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.31 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 384.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4324,
+    "name" : "Victory 1700 CROSS COUNTRY 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4324/1700-CROSS-COUNTRY-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-2013b.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21890,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection ï¿½ 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.9 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulu en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4320,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4320/1700-CROSS-COUNTRY-TOUR-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-cross-country-tour-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21890,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.17 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 384.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4328,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR CORY NESS 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4328/1700-CROSS-COUNTRY-TOUR-CORY-NESS-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-tour-cory-ness-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 23290,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.9 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4330,
+    "name" : "Victory 1700 CROSS COUNTRY ZACH NESS 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4330/1700-CROSS-COUNTRY-ZACH-NESS-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-country-zach-ness-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 23490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection ï¿½ 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.9 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulu en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4322,
+    "name" : "Victory 1700 CROSS ROADS CLASSIC 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4322/1700-CROSS-ROADS-CLASSIC-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-classic-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18690,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.7 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 340.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4325,
+    "name" : "Victory 1700 HARD-BALL 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4325/1700-HARD-BALL-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hardball-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19500,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.88 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4319,
+    "name" : "Victory 1700 VISION TOUR 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4319/1700-VISION-TOUR-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-vision-tour-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 23590,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.3 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.28 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 394.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2629,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4323,
+    "name" : "Victory 1700 VISION TOUR ARLEN NESS 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4323/1700-VISION-TOUR-ARLEN-NESS-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-1731-Vision-Tour-2013-arlen-ness.jpg",
+    "year" : "2013",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 28500,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 92.7 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 395.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4318,
+    "name" : "Victory 1700 BOARDWALK 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4318/1700-BOARDWALK-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-boardwalk-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "Simple disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "Simple disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.6 mkg à 2800 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "94 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.27 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 307.0,
+      "seatHeight" : 658.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.8,
+      "lenght" : 2457,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4332,
+    "name" : "Victory 1700 HAMMER 8 BALL 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4332/1700-HAMMER-8-BALL-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-8-balls-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "90 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.39 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4331,
+    "name" : "Victory 1700 HAMMER S 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4331/1700-HAMMER-S-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-S-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 17290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4329,
+    "name" : "Victory 1700 HIGH BALL 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4329/1700-HIGH-BALL-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-high-ball-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14590,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4326,
+    "name" : "Victory 1700 JACKPOT 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4326/1700-JACKPOT-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-jackpot-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 18390,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 296.0,
+      "seatHeight" : 653.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2435,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4321,
+    "name" : "Victory 1700 JUDGE 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4321/1700-JUDGE-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14790,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4327,
+    "name" : "Victory 1700 VEGAS 8 BALL 2013",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4327/1700-VEGAS-8-BALL-2013/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-vegas-8-ball-2013.jpg",
+    "year" : "2013",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3507,
+    "name" : "Victory 1700 CROSS COUNTRY 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3507/1700-CROSS-COUNTRY-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-cross-country-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection ï¿½ 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.9 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulu en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3981,
+    "name" : "Victory 1700 CROSS COUNTRY CORY NESS 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3981/1700-CROSS-COUNTRY-CORY-NESS-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-cross-country-cory-ness-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 24490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3505,
+    "name" : "Victory 1700 CROSS COUNTRY TOUR 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3505/1700-CROSS-COUNTRY-TOUR-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Victory-cross-country-tour-2012b.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 21490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.31 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 384.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2747,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3985,
+    "name" : "Victory 1700 CROSS ROADS 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3985/1700-CROSS-ROADS-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 17490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.67 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 338.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4181,
+    "name" : "Victory 1700 CROSS ROADS CLASSIC L.E. 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4181/1700-CROSS-ROADS-CLASSIC-LE-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-classic-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.7 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 340.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4184,
+    "name" : "Victory 1700 CROSS ROADS DELUX 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4184/1700-CROSS-ROADS-DELUX-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-delux-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.7 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 340.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3906,
+    "name" : "Victory 1700 HARD-BALL 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3906/1700-HARD-BALL-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-hard-ball-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.88 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 345.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3506,
+    "name" : "Victory VISION TOUR 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3506/VISION-TOUR-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vision-Tour-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 22490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : null,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2665,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : 387.0
+    }
+  }, {
+    "id" : 3972,
+    "name" : "Victory VISION TOUR ARLEN NESS 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3972/VISION-TOUR-ARLEN-NESS-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vision-Tour-2012-arlen-ness.jpg",
+    "year" : "2012",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 27990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 92.7 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 395.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3973,
+    "name" : "Victory 1700 HAMMER S 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3973/1700-HAMMER-S-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-S-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.32 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3984,
+    "name" : "Victory 1700 HAMMER S 106 Limited Edition 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3984/1700-HAMMER-S-106-Limited-Edition-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-S-2012-106-LE.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 17290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4058,
+    "name" : "Victory 1700 JUDGE 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4058/1700-JUDGE-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1731-judge-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14500,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "140 / 90 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 300.0,
+      "seatHeight" : 658.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2337,
+      "wheelbase" : 1647,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4003,
+    "name" : "Victory 1700 VEGAS HIGH BALL 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4003/1700-VEGAS-HIGH-BALL-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/1700-vegas-high-ball-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3974,
+    "name" : "Victory VEGAS 1700 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3974/VEGAS-1700-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 170,
+    "zeroToHundred" : 6.3,
+    "price" : 14490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étriers 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4074,
+    "name" : "Victory VEGAS 1700 8 BALL 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4074/VEGAS-1700-8-BALL-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/1700-vegas-8-ball-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12690,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4188,
+    "name" : "Victory VEGAS 1700 JACKPOT 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4188/VEGAS-1700-JACKPOT-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-Jackpot-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 17990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 296.0,
+      "seatHeight" : 653.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2435,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4182,
+    "name" : "Victory VEGAS 1700 ZACH NESS 2012",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4182/VEGAS-1700-ZACH-NESS-2012/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-zach-ness-2012.jpg",
+    "year" : "2012",
+    "maxSpeed" : 170,
+    "zeroToHundred" : 6.3,
+    "price" : 18990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étriers 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2782,
+    "name" : "Victory 1700 CROSS COUNTRY 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/2782/1700-CROSS-COUNTRY-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-cross-country-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 19490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.9 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3982,
+    "name" : "Victory 1700 CROSS COUNTRY CORY NESS 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3982/1700-CROSS-COUNTRY-CORY-NESS-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-cross-country-cory-ness-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 22490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.77 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 347.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3988,
+    "name" : "Victory 1700 CROSS ROADS 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3988/1700-CROSS-ROADS-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.67 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 338.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4185,
+    "name" : "Victory 1700 CROSS ROADS DELUX 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4185/1700-CROSS-ROADS-DELUX-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-cross-roads-delux-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 18490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.7 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 340.0,
+      "seatHeight" : 667.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 22.0,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 3983,
+    "name" : "Victory VISION ARLEN NESS 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/3983/VISION-ARLEN-NESS-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vision-2011-arlen-ness.jpg",
+    "year" : "2011",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 27990,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 92.7 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "4.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 395.0,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2652,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2593,
+    "name" : "Victory VISION TOUR 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/2593/VISION-TOUR-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vision-Tour-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 22490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : null,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2665,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : 387.0
+    }
+  }, {
+    "id" : 2784,
+    "name" : "Victory 1700 HAMMER 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/2784/1700-HAMMER-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4004,
+    "name" : "Victory 1700 VEGAS HIGH BALL 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4004/1700-VEGAS-HIGH-BALL-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/1700-vegas-high-ball-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 14290,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "150 / 80 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 90 - 16\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 3500 tr/min",
+      "act" : "1 ACT",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.18 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " cadre moulé en aluminium",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 2783,
+    "name" : "Victory VEGAS 1700 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/2783/VEGAS-1700-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 170,
+    "zeroToHundred" : 6.3,
+    "price" : 14490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étriers 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4073,
+    "name" : "Victory VEGAS 1700 8 BALL 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4073/VEGAS-1700-8-BALL-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/1700-vegas-8-ball-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 190,
+    "zeroToHundred" : null,
+    "price" : 12690,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2900 tr/min",
+      "act" : "1 ACT",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.26 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4187,
+    "name" : "Victory VEGAS 1700 JACKPOT 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4187/VEGAS-1700-JACKPOT-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-Jackpot-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 17990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 296.0,
+      "seatHeight" : 653.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2435,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4183,
+    "name" : "Victory VEGAS 1700 ZACH NESS 2011",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4183/VEGAS-1700-ZACH-NESS-2011/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-zach-ness-2011.jpg",
+    "year" : "2011",
+    "maxSpeed" : 170,
+    "zeroToHundred" : 6.3,
+    "price" : 18990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étriers 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.15 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 290.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 1805,
+    "name" : "Victory VISION TOUR 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/1805/VISION-TOUR-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vision-Tour-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 22490,
+    "category" : "Routière & Grand Tourisme",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 120 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "180 / 60 - 16\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 46 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 3 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "15 mkg à 3500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 5000 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : null,
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : null,
+      "seatHeight" : 673.0,
+      "type" : " cadre pont en aluminium",
+      "tankCapacity" : 22.7,
+      "lenght" : 2665,
+      "wheelbase" : 1670,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : 387.0
+    }
+  }, {
+    "id" : 2785,
+    "name" : "Victory 1700 HAMMER 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/2785/1700-HAMMER-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/victory-1700-hammer-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 180,
+    "zeroToHundred" : null,
+    "price" : 16490,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 100 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "130 / 70 - 18\"",
+      "frontBrake" : "2 disques Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4950 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.43 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 305.0,
+      "seatHeight" : 673.0,
+      "type" : " simple berceau dédoublé en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2366,
+      "wheelbase" : 1669,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 1806,
+    "name" : "Victory VEGAS 1700 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/1806/VEGAS-1700-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1600-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 170,
+    "zeroToHundred" : 6.3,
+    "price" : 14000,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 76 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étriers 2 pistons",
+      "rearWheel" : "180 / 55 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étriers 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "89 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.29 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée.",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 293.0,
+      "seatHeight" : 640.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2439,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  }, {
+    "id" : 4186,
+    "name" : "Victory VEGAS 1700 JACKPOT 2010",
+    "urlMotoplanete" : "http://www.motoplanete.com/victory/4186/VEGAS-1700-JACKPOT-2010/contact.html",
+    "urlImgMotoplanete" : "http://www.motoplanete.com/victory/Vegas-1700-Jackpot-2010.jpg",
+    "year" : "2010",
+    "maxSpeed" : 170,
+    "zeroToHundred" : null,
+    "price" : 17990,
+    "category" : "Custom",
+    "rearAxle" : {
+      "rearShock" : "Mono-amortisseur, déb : 75 mm",
+      "rearBrake" : "1 disque Ø 300 mm, étrier 2 pistons",
+      "rearWheel" : "250 / 40 - 18\"",
+      "type" : null
+    },
+    "frontAxle" : {
+      "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 130 mm",
+      "frontShock" : null,
+      "frontWheel" : "90 / 90 - 21\"",
+      "frontBrake" : "1 disque Ø 300 mm, étrier 4 pistons"
+    },
+    "engine" : {
+      "gasSupply" : "Injection Ø 45 mm",
+      "torque" : "14.2 mkg à 2500 tr/min",
+      "act" : "1 ACT par cylindre",
+      "power" : "92 ch à 4800 tr/min",
+      "cooling" : "Refroidissement par air et huile",
+      "displacement" : "1731 cc (101 x 108 mm)",
+      "type" : "Bicylindre en V à 50°, 4 temps",
+      "powerToWeightRatio" : "3.22 kg/ch",
+      "valve" : "4 soupapes par cylindre",
+      "valveCommand" : null,
+      "engineIntake" : null,
+      "bridable" : null
+    },
+    "transmission" : {
+      "gearboxSpeeds" : "6 rapports",
+      "geerboxType" : "manuelle",
+      "secondaryTransmission" : "courroie crantée",
+      "type" : null
+    },
+    "frame" : {
+      "dryWeight" : 296.0,
+      "seatHeight" : 653.0,
+      "type" : " Double berceau en acier",
+      "tankCapacity" : 17.0,
+      "lenght" : 2435,
+      "wheelbase" : 1684,
+      "width" : null,
+      "height" : null,
+      "movingWeight" : null
+    }
+  } ]
+}
