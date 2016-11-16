@@ -5,7 +5,7 @@ use Symfony\Component\HttpFoundation\Request;
 
 $app = new Silex\Application();
 
-
+header('Content-Type: application/json; charset=utf-8');
 
 // ... definitions
 
