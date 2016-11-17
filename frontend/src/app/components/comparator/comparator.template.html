@@ -70,7 +70,7 @@
 				<ul class="cd-products-columns">
 					<li ng-repeat="bike in bikes" class="product">
 						<div class="top-info">
-							<img src="{{bike.img_url}}">
+							<img ng-src="{{bike.img_url}}">
 							<h3>{{bike.name}}</h3>
 						</div>
 						<!-- .top-info -->
@@ -92,17 +92,14 @@
 					</li>
 					<!-- .product -->
 
-					
+
 					<!-- .product -->
 				</ul>
 				<!-- .cd-products-columns -->
 			</div>
 			<!-- .cd-products-wrapper -->
 
-			<ul class="cd-table-navigation">
-				<li><a href="#0" class="prev inactive">Prev</a></li>
-				<li><a href="#0" class="next">Next</a></li>
-			</ul>
+
 		</div>
 		<!-- .cd-products-table -->
 	</section>

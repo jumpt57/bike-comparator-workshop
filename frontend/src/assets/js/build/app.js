@@ -34368,19 +34368,18 @@ var bikeModule = angular.module('bikeModule',
     ]
 );
 var comparatorModule = angular.module('comparatorModule', []);
-var manufacturersModule = angular.module('manufacturersModule',
+var manufacturerModule = angular.module('manufacturerModule',
     [
         'ngResource'
     ]
 );
-var manufacturerModule = angular.module('manufacturerModule',
+var manufacturersModule = angular.module('manufacturersModule',
     [
         'ngResource'
     ]
 );
 var newsModule = angular.module('newsModule', []);
 var researchModule = angular.module('researchModule', []);
-var cardbikeModule = angular.module('cardbikeModule', []);
 var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
 var listBikesModule = angular.module('listBikesModule',
     [
@@ -34394,6 +34393,7 @@ var listManufacturersModule = angular.module('listManufacturersModule',
 );
 var recordCardBikeModule = angular.module('recordCardBikeModule', []);
 var recordCardManufacturerModule = angular.module('recordCardManufacturerModule', []);
+var cardbikeModule = angular.module('cardbikeModule', []);
 function AppRouter($routeProvider) {
     $routeProvider
         .when('/manufacturers', {
@@ -34421,7 +34421,7 @@ function AppRouter($routeProvider) {
             controller: 'newsController'
         })
         .otherwise({
-            redirectTo: '/news'
+            redirectTo: '/manufacturers'
         });
 }
 bikeApp.config(
@@ -34490,19 +34490,6 @@ comparatorModule.controller('comparatorController',
         ComparatorController
     ]
     );
-function ManufacturersController($scope, Manufacturers) {
-
-    Manufacturers.query(function(data) {        
-        $scope.manufacturers = data.manufactures;
-    });
-}
-manufacturersModule.controller('manufacturersController',
-    [
-        '$scope',
-        'Manufacturers',
-        ManufacturersController
-    ]
-);
 function ManufacturerController($scope, $routeParams, Manufacturer){
     Manufacturer.query({id: $routeParams.id}, function(data){        
         $scope.manufacturer = data.manufactures[0];       
@@ -34517,6 +34504,19 @@ manufacturerModule.controller('manufacturerController',
         '$routeParams',
         'Manufacturer',
         ManufacturerController
+    ]
+);
+function ManufacturersController($scope, Manufacturers) {
+
+    Manufacturers.query(function(data) {        
+        $scope.manufacturers = data.manufactures;
+    });
+}
+manufacturersModule.controller('manufacturersController',
+    [
+        '$scope',
+        'Manufacturers',
+        ManufacturersController
     ]
 );
 function NewsController($scope){
@@ -34581,20 +34581,6 @@ comparatorModule.factory('Comparator',
         ComparatorService
     ]
 );
-function ManufacturersService($resource) {
-    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturers', {}, {
-        query: {
-            method: 'GET',
-            isArray: false
-        } 
-    });
-}
-manufacturersModule.factory('Manufacturers',
-    [
-        '$resource',
-        ManufacturersService
-    ]
-);
 function ManufacturerService($resource) {
     return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id', {}, {
         query: {
@@ -34612,6 +34598,20 @@ manufacturerModule.factory('Manufacturer',
     [
         '$resource',
         ManufacturerService
+    ]
+);
+function ManufacturersService($resource) {
+    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturers', {}, {
+        query: {
+            method: 'GET',
+            isArray: false
+        } 
+    });
+}
+manufacturersModule.factory('Manufacturers',
+    [
+        '$resource',
+        ManufacturersService
     ]
 );
 function NewsService($resource) {
@@ -34642,16 +34642,6 @@ researchModule.factory('Research',
         ResearchService
     ]
 );
-function CardBikeController($scope, $element, $attrs) {
-    var ctrl = this;
-}
-cardbikeModule.component('cardBike', {
-    templateUrl: './app/shared/card-bike/card-bike.template.html',
-    controller: CardBikeController,
-    bindings: {
-        bike: '<'
-    }
-});
 function CardManufacturerModule($scope, $element, $attrs) {
     var ctrl = this;
 }
@@ -34700,5 +34690,15 @@ recordCardManufacturerModule.component('recordCardManufacturer', {
     controller: RecordCardManufacturerController,
     bindings: {
         manufacturer: '<'
+    }
+});
+function CardBikeController($scope, $element, $attrs) {
+    var ctrl = this;
+}
+cardbikeModule.component('cardBike', {
+    templateUrl: './app/shared/card-bike/card-bike.template.html',
+    controller: CardBikeController,
+    bindings: {
+        bike: '<'
     }
 });

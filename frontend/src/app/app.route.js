@@ -25,7 +25,7 @@ function AppRouter($routeProvider) {
             controller: 'newsController'
         })
         .otherwise({
-            redirectTo: '/news'
+            redirectTo: '/manufacturers'
         });
 }
 bikeApp.config(
