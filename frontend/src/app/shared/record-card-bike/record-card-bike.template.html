@@ -15,7 +15,7 @@
             <div class="card-content">
                 <div class="row">
                     <div class="col s12">
-                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.urlImgMotoplanete}}" alt="">
+                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.img_url}}" alt="">
                     </div>
                 </div>
             </div>
@@ -52,10 +52,10 @@
                         </tr>
                         <tr>
                             <td>{{$ctrl.bike.year}}</td>
-                            <td>{{$ctrl.bike.maxSpeed}} km/h</td>
-                            <td>{{$ctrl.bike.zeroToHundred}}</td>
+                            <td>{{$ctrl.bike.max_speed}} km/h</td>
+                            <td>{{$ctrl.bike.zero_to_hundred}}</td>
                             <td>{{$ctrl.bike.price}} €</td>
-                            <td>{{$ctrl.bike.category}}</td>
+                            <td>{{$ctrl.bike.category_name}}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -68,21 +68,21 @@
                 <span class="card-title">Train Arrière</span><br>
                 <table class="responsive-table">
                     <tbody>
-                        <tr ng-if="$ctrl.bike.rearAxle.rearShock != null">
+                        <tr ng-if="$ctrl.bike.rear.rear_shock != null">
                             <th>Amortisseur(s)</th>
-                            <td>{{$ctrl.bike.rearAxle.rearShock}}</td>
+                            <td>{{$ctrl.bike.rear.rear_shock}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.rearAxle.rearBrake != null">
+                        <tr ng-if="$ctrl.bike.rear.rear_brake != null">
                             <th>Freinage</th>
-                            <td>{{$ctrl.bike.rearAxle.rearBrake}}</td>
+                            <td>{{$ctrl.bike.rear.rear_brake}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.rearAxle.rearWheel != null">
+                        <tr ng-if="$ctrl.bike.rear.rear_wheel != null">
                             <th>Roue</th>
-                            <td>{{$ctrl.bike.rearAxle.rearWheel}}</td>
+                            <td>{{$ctrl.bike.rear.rear_wheel}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.rearAxle.type != null">
+                        <tr ng-if="$ctrl.bike.rear.type != null">
                             <th>Type</th>
-                            <td>{{$ctrl.bike.rearAxle.type}}</td>
+                            <td>{{$ctrl.bike.rear.type}}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -93,21 +93,21 @@
                 <span class="card-title">Train avant</span><br>
                 <table class="responsive-table">
                     <tbody>
-                        <tr>
+                        <tr ng-if="$ctrl.bike.front_axle.fork != null">
                             <th>Fourche</th>
-                            <td>{{$ctrl.bike.frontAxle.fork}}</td>
+                            <td>{{$ctrl.bike.front_axle.fork}}</td>
                         </tr>
-                        <tr>
+                        <tr ng-if="$ctrl.bike.engifront_axlene.front_shock != null">
                             <th>Amortisseur</th>
-                            <td>{{$ctrl.bike.frontAxle.frontShock}}</td>
+                            <td>{{$ctrl.bike.front_axle.front_shock}}</td>
                         </tr>
-                        <tr>
+                        <tr ng-if="$ctrl.bike.front_axle.front_wheel != null">
                             <th>Roue</th>
-                            <td>{{$ctrl.bike.frontAxle.frontWheel}}</td>
+                            <td>{{$ctrl.bike.front_axle.front_wheel}}</td>
                         </tr>
-                        <tr>
+                        <tr ng-if="$ctrl.bike.front_axle.front_brake != null">
                             <th>Freinage</th>
-                            <td>{{$ctrl.bike.frontAxle.frontBrake}}</td>
+                            <td>{{$ctrl.bike.front_axle.front_brake}}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -118,9 +118,9 @@
                 <span class="card-title">Moteur</span><br>
                 <table class="responsive-table">
                     <tbody>
-                        <tr ng-if="$ctrl.bike.engine.gasSupply != null">
+                        <tr ng-if="$ctrl.bike.engine.gas_supply != null">
                             <th>Arrivée d'essence</th>
-                            <td>{{$ctrl.bike.engine.gasSupply}}</td>
+                            <td>{{$ctrl.bike.engine.gas_supply}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.engine.torque != null">
                             <th>Couple</th>
@@ -146,21 +146,21 @@
                             <th>Type</th>
                             <td>{{$ctrl.bike.engine.type}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.engine.powerToWeightRatio != null">
+                        <tr ng-if="$ctrl.bike.engine.power_to_weight_ratio != null">
                             <th>Rapport poids/puissance</th>
-                            <td>{{$ctrl.bike.engine.powerToWeightRatio}}</td>
+                            <td>{{$ctrl.bike.engine.power_to_weight_ratio}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.engine.valve != null">
                             <th>Valve</th>
                             <td>{{$ctrl.bike.engine.valve}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.engine.valveCommand != null">
+                        <tr ng-if="$ctrl.bike.engine.valve_command != null">
                             <th>Commande de valve</th>
-                            <td>{{$ctrl.bike.engine.valveCommand}}</td>
+                            <td>{{$ctrl.bike.engine.valvvalve_commandeCommand}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.engine.engineIntake != null">
+                        <tr ng-if="$ctrl.bike.engine.engine_intake != null">
                             <th>Admission</th>
-                            <td>{{$ctrl.bike.engine.engineIntake}}</td>
+                            <td>{{$ctrl.bike.engine.engine_intake}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.engine.bridable != null">
                             <th>Bridable</th>
@@ -175,17 +175,17 @@
                 <span class="card-title">Transmission</span><br>
                 <table class="responsive-table">
                     <tbody>
-                        <tr ng-if="$ctrl.bike.transmission.gearboxSpeeds != null">
+                        <tr ng-if="$ctrl.bike.transmission.gearbox_speeds != null">
                             <th>Nombre de vitesse</th>
-                            <td>{{$ctrl.bike.transmission.gearboxSpeeds}}</td>
+                            <td>{{$ctrl.bike.transmission.gearbox_speeds}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.transmission.geerboxType != null">
+                        <tr ng-if="$ctrl.bike.transmission.geerbox_type != null">
                             <th>Type de boite</th>
-                            <td>{{$ctrl.bike.transmission.geerboxType}}</td>
+                            <td>{{$ctrl.bike.transmission.geerbox_type}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.transmission.secondaryTransmission != null">
+                        <tr ng-if="$ctrl.bike.transmission.secondary_transmission != null">
                             <th>Transmission secondaire</th>
-                            <td>{{$ctrl.bike.transmission.secondaryTransmission}}</td>
+                            <td>{{$ctrl.bike.transmission.secondary_transmission}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.transmission.type != null">
                             <th>Type</th>
@@ -199,29 +199,29 @@
                 <span class="card-title">Cadre</span><br>
                 <table class="responsive-table">
                     <tbody>
-                        <tr ng-if="$ctrl.bike.frame.dryWeight != null">
+                        <tr ng-if="$ctrl.bike.frame.dry_weight != null">
                             <th>Poids à sec</th>
-                            <td>{{$ctrl.bike.frame.dryWeight}}</td>
+                            <td>{{$ctrl.bike.frame.dry_weight}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.frame.seatHeight != null">
+                        <tr ng-if="$ctrl.bike.frame.seat_height != null">
                             <th>Hauteur de selle</th>
-                            <td>{{$ctrl.bike.frame.seatHeight}}</td>
+                            <td>{{$ctrl.bike.frame.seat_height}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.frame.type != null">
                             <th>Type</th>
                             <td>{{$ctrl.bike.frame.type}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.frame.tankCapacity != null">
+                        <tr ng-if="$ctrl.bike.frame.tank_capacity != null">
                             <th>Capacité du réservoir</th>
-                            <td>{{$ctrl.bike.frame.tankCapacity}}</td>
+                            <td>{{$ctrl.bike.frame.tank_capacity}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.frame.lenght != null">
                             <th>Longeur</th>
                             <td>{{$ctrl.bike.frame.lenght}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.frame.wheelbase != null">
+                        <tr ng-if="$ctrl.bike.frame.wheel_base != null">
                             <th>Empattement</th>
-                            <td>{{$ctrl.bike.frame.wheelbase}}</td>
+                            <td>{{$ctrl.bike.frame.wheel_base}}</td>
                         </tr>
                         <tr ng-if="$ctrl.bike.frame.width != null">
                             <th>Largeur</th>
@@ -231,9 +231,9 @@
                             <th>Hauteur</th>
                             <td>{{$ctrl.bike.frame.height}}</td>
                         </tr>
-                        <tr ng-if="$ctrl.bike.frame.movingWeight != null">
+                        <tr ng-if="$ctrl.bike.frame.moving_weight != null">
                             <th>Poids en ordre de marche</th>
-                            <td>{{$ctrl.bike.frame.movingWeight}}</td>
+                            <td>{{$ctrl.bike.frame.moving_weight}}</td>
                         </tr>
                 </table>
             </div>

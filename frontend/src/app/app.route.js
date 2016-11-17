@@ -4,11 +4,11 @@ function AppRouter($routeProvider) {
             templateUrl: './app/components/manufacturers/manufacturers.template.html',
             controller: 'manufacturersController'
         })
-        .when('/manufacturer/:name', {
+        .when('/manufacturer/:id', {
             templateUrl: './app/components/manufacturer/manufacturer.template.html',
             controller: 'manufacturerController'
         })
-        .when('/bike/:name', {
+        .when('/bike/:id', {
             templateUrl: './app/components/bike/bike.template.html',
             controller: 'bikeController'
         })

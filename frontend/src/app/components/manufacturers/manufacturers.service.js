@@ -1,8 +1,8 @@
 function ManufacturersService($resource) {
-    return $resource('./assets/json/manufacturers.json', {}, {
+    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturers', {}, {
         query: {
             method: 'GET',
-            isArray: true
+            isArray: false
         }
     });
 }
