@@ -6,17 +6,18 @@ var gulp = require('gulp'),
 
 var repSortie = './src/assets/js/build';
 
-var files = [                
+var files = [       
+                /**Templates modules */
+                'src/assets/plugins/products-comparison-table/js/modernizr.js',                       
                 'src/assets/plugins/jquery/jquery-2.2.0.min.js',               
-                'src/assets/plugins/materialize/js/materialize.min.js',
+                'src/assets/plugins/materialize/js/materialize.js',
+                'src/assets/plugins/material-preloader/js/materialPreloader.js',
+                'src/assets/plugins/jquery-blockui/jquery.blockui.js',
+                'src/assets/js/alpha.js', 
                 /**Bower Module */
                 'src/assets/bower_components/angular/angular.js',
                 'src/assets/bower_components/angular-route/angular-route.js',
-                'src/assets/bower_components/angular-resource/angular-resource.js',
-                /**Templates modules */
-                'src/assets/plugins/material-preloader/js/materialPreloader.min.js',
-                'src/assets/plugins/jquery-blockui/jquery.blockui.js',
-                'src/assets/js/alpha.min.js',
+                'src/assets/bower_components/angular-resource/angular-resource.js',              
                 /**Angular modules */
                 'src/app/**/*.module.js',
                 'src/app/**/app.*.js',
