@@ -2,7 +2,7 @@
 require_once __DIR__.'/../vendor/autoload.php';
 use Symfony\Component\HttpFoundation\Request;
 
-header('Access-Control-Allow-Origin: *');  
+//header('Access-Control-Allow-Origin: *');  
 $app = new Silex\Application();
 
 header('Content-Type: application/json; charset=utf-8');
@@ -36,6 +36,33 @@ $app->get('/manufacturer/{id}', function (Request $request, $id) use ($app, $pdo
 	  		$manuf['years'] = $resultat['years'];
 	  		$manuf['imgurl'] = $resultat['imgurl'];
 	  	
+
+	  		array_push($arrayManufactures['manufactures'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+	return json_encode($arrayManufactures);
+});
+
+$app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
+	$name = $request->get('filter');
+	
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['manufactures'] = array();
+  	$query = "SELECT * FROM manufacturer man WHERE name like '%".$name."%'";
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = $resultat['name'];
+	  		$manuf['image'] = $resultat['imgurl'];
+	  		
 
 	  		array_push($arrayManufactures['manufactures'], $manuf);
 	  	}
