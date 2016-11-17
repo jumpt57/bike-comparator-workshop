@@ -2,21 +2,49 @@
 require_once __DIR__.'/../vendor/autoload.php';
 use Symfony\Component\HttpFoundation\Request;
 
-
+header('Access-Control-Allow-Origin: *');  
 $app = new Silex\Application();
 
 header('Content-Type: application/json; charset=utf-8');
 
 // ... definitions
 
-$app['debug'] = false;
+$app['debug'] = true;
 
 try {
-$pdo = new PDO("mysql:host=anarkhief.fr; dbname=anar33_comparateur", "anar33_comparat", "comparateur123");
+$pdo = new PDO("mysql:host=anarkhief.fr; dbname=anar33_comparateur; charset=utf8mb4", "anar33_comparat", "comparateur123");
 } catch (PDOException $ex) { echo $ex->getMessage(); die(); }
 
 $app->get('/hello/{name}', function($name) use ($app) {
 	return '<h1>Hello ' . $name . '</h1>';
+});
+
+$app->get('/manufacturer/{id}', function (Request $request, $id) use ($app, $pdo) {
+	$name = $request->get('filter');
+	
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['manufactures'] = array();
+  	$query = "SELECT * FROM manufacturer man WHERE id = ".$id."";
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = $resultat['name'];
+	  		$manuf['years'] = $resultat['years'];
+	  		$manuf['imgurl'] = $resultat['imgurl'];
+	  	
+
+	  		array_push($arrayManufactures['manufactures'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+	return json_encode($arrayManufactures);
 });
 
 $app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
@@ -46,12 +74,155 @@ $app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
 	return json_encode($arrayManufactures);
 });
 
-$app->get('/manufacturer/{id}/bike', function ($id) use ($app, $pdo) {
+
+$app->get('/category', function (Request $request) use ($app, $pdo) {
+	
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['category'] = array();
+  	$query = "SELECT * FROM anar33_comparateur.category";
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = $resultat['name'];	
+
+	  		array_push($arrayManufactures['category'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+  	
+	return json_encode($arrayManufactures);
+});
+
+
+$app->get('/category', function (Request $request) use ($app, $pdo) {
+	
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['category'] = array();
+  	$query = "SELECT * FROM anar33_comparateur.category";
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = utf8_encode($resultat['name']);	
+
+	  		array_push($arrayManufactures['category'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+  	
+	return json_encode($arrayManufactures);
+});
+
+
+$app->get('/category/{idCategory}/manufacturer/{idManufacturer}', function (Request $request, $idCategory, $idManufacturer) use ($app, $pdo) {
+	
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['modele'] = array();
+  	$query = "SELECT distinct m.id, m.name FROM bike b INNER JOIN modele m ON m.id = b.id_modele WHERE id_category = " .$idCategory." AND id_manufacturer = " . $idManufacturer;
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+	  		$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = utf8_encode($resultat['name']);	
+
+	  		array_push($arrayManufactures['modele'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+  	
+	return json_encode($arrayManufactures);
+});
+
+
+$app->get('/search', function (Request $request, $idCategory, $idManufacturer) use ($app, $pdo) {
+	$idCategory = $request->get('idCategory');
+	$idManufacturer = $request->get('idManufacturer');
+	$idModele = $request->get('idModele');
+	$minCylindree = $request->get('minCylindree');
+	$maxCylindree = $request->get('maxCylindree');
+	
+	$minTarif = $request->get('minTarif');
+	$maxTarif = $request->get('maxTarif');
+
+
+
+	$arrayManufactures = array();
+	$arrayManufactures['success'] = 1;
+	$arrayManufactures['message'] = null;
+	$arrayManufactures['modele'] = array();
+  	$query = "SELECT * FROM bike 
+  	INNER JOIN engine ON engine.id = bike.id_engine
+  	WHERE 1=1";
+    if(!empty($idCategory))
+  		$query .= " AND id_category >= ".$idCategory;
+  	if(!empty($idManufacturer))
+  		$query .= " AND id_manufacturer >= ".$idManufacturer;
+  	if(!empty($idModele))
+  		$query .= " AND id_modele >= ".$idModele;
+  	if(!empty($minTarif))
+  		$query .= " AND price >= ".$minTarif;
+  	if(!empty($maxTarif))
+  		$query .= " AND price <= ".$maxTarif;
+	if(!empty($minCylindree))
+  		$query .= " AND cylindree >= ".$minCylindree;
+	if(!empty($maxCylindree))
+  		$query .= " AND cylindree <= ".$maxCylindree;
+
+	try {
+	  	$result = $pdo->query($query);
+	  	while($resultat = $result->fetch()) {
+	  		$manuf = array();
+			$manuf['id'] = $resultat['id'];
+	  		$manuf['name'] = utf8_encode($resultat['name']);
+	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
+
+	  		array_push($arrayManufactures['modele'], $manuf);
+	  	}
+  	}
+  	catch(Exception $ex) {
+  		$arrayManufactures['success'] = 0;
+  		$arrayManufactures['message'] = $ex->getMessage();
+  	}
+  	
+	return json_encode($arrayManufactures);
+});
+
+
+$app->get('/manufacturer/{id}/bike', function (Request $request, $id) use ($app, $pdo) {
+
+	$year = $request->get('year');
+
 	$arrayManufactures = array();
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['bikes'] = array();
   	$query = "SELECT * FROM bike WHERE id_manufacturer = ".$id;
+
+  	if(!empty($year))
+  		$query .= " AND year = " . $year;
+
 
 	try {
 	  	$result = $pdo->query($query);
@@ -59,7 +230,7 @@ $app->get('/manufacturer/{id}/bike', function ($id) use ($app, $pdo) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
 	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		
+	  		$manuf['imgurl'] = utf8_encode($resultat['imgurl']);
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
 	  	}
