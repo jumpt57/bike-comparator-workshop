@@ -34358,43 +34358,42 @@ var bikeApp = angular.module('bikeApp',
         'cardmanufacturerModule',
 
         'recordCardBikeModule',
-        'recordCardManufacturerModule',
-        
+        'recordCardManufacturerModule'      
         
     ]
 );
+var cardbikeModule = angular.module('cardbikeModule', []);
+var listBikesModule = angular.module('listBikesModule',
+    [
+        
+    ]
+);
+var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
+var recordCardBikeModule = angular.module('recordCardBikeModule', []);
+var listManufacturersModule = angular.module('listManufacturersModule',
+    [
+        
+    ]
+);
+var recordCardManufacturerModule = angular.module('recordCardManufacturerModule', []);
 var bikeModule = angular.module('bikeModule',
     [
         'ngResource'
     ]
 );
 var comparatorModule = angular.module('comparatorModule', []);
-var manufacturerModule = angular.module('manufacturerModule',
+var manufacturersModule = angular.module('manufacturersModule',
     [
         'ngResource'
     ]
 );
-var manufacturersModule = angular.module('manufacturersModule',
+var manufacturerModule = angular.module('manufacturerModule',
     [
         'ngResource'
     ]
 );
 var newsModule = angular.module('newsModule', []);
 var researchModule = angular.module('researchModule', []);
-var cardbikeModule = angular.module('cardbikeModule', []);
-var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
-var listBikesModule = angular.module('listBikesModule',
-    [
-        
-    ]
-);
-var listManufacturersModule = angular.module('listManufacturersModule',
-    [
-        
-    ]
-);
-var recordCardBikeModule = angular.module('recordCardBikeModule', []);
-var recordCardManufacturerModule = angular.module('recordCardManufacturerModule', []);
 function AppRouter($routeProvider) {
     $routeProvider
         .when('/manufacturers', {
@@ -34442,15 +34441,38 @@ bikeApp.run(
     ]
 );
 function BikeController($scope, $routeParams, Bike){
-    $scope.message = 'test';
     $scope.manufacturer = $routeParams.name.split(' ')[0].toLowerCase();
     Bike.query({name: $scope.manufacturer}, function(data){
         data.bikes.forEach(function(bike) {
             if(bike.name == $routeParams.name){
+               
                 $scope.bike = bike;
+               
+                /*Bike.queryLBC(
+                    {
+                        region: 2,
+                        query: 'CB1000R ABS',
+                        c: 3,
+                        ps: 1000,
+                        pe: 10000,
+                        ms: 5000,
+                        me: 50000,
+                        rs: 2000,
+                        re: 2016,
+                        ccs: 600,
+                        cce: 1200,
+                        city: 'Bordeaux',
+                        zipcode: 33000
+                    }, 
+                    function(dataLBC){
+                        console.log(JSON.stringify(dataLBC));
+                    }
+                );*/
             }
         }, this);
     });
+
+
 }
 bikeModule.controller('bikeController',
     [
@@ -34469,19 +34491,6 @@ comparatorModule.controller('comparatorController',
         ComparatorController
     ]
 );
-function ManufacturerController($scope, $routeParams, Manufacturer){
-    Manufacturer.query({name: $routeParams.name}, function(data){
-        $scope.manufacturer = data;
-    });
-}
-manufacturerModule.controller('manufacturerController',
-    [
-        '$scope',
-        '$routeParams',
-        'Manufacturer',
-        ManufacturerController
-    ]
-);
 function ManufacturersController($scope, Manufacturers) {
 
     Manufacturers.query(function(data) {
@@ -34493,6 +34502,19 @@ manufacturersModule.controller('manufacturersController',
         '$scope',
         'Manufacturers',
         ManufacturersController
+    ]
+);
+function ManufacturerController($scope, $routeParams, Manufacturer){
+    Manufacturer.query({name: $routeParams.name}, function(data){
+        $scope.manufacturer = data;
+    });
+}
+manufacturerModule.controller('manufacturerController',
+    [
+        '$scope',
+        '$routeParams',
+        'Manufacturer',
+        ManufacturerController
     ]
 );
 function NewsController($scope){
@@ -34518,6 +34540,16 @@ function BikeService($resource) {
         query: {
             method: 'GET',
             isArray: false
+        },
+        queryLBC: {
+            method: 'POST',
+            isArray: false,
+            //url: 'https://mobile.leboncoin.fr/templates/api/list.json?limit=0&ca=:region_s&w=1&f=a&o=1&q=:query&sp=0&pivot=0,0,0&c=:categorie&cce=:cylindremax&pe=:prixmax&me=kmmax&ps=prixmin&re=anneemax&rs=:anneemin&ccs=cynlindremin&ms=:kmmin&zipcode=:codepost&city=:ville',
+            url: 'http://mobile.leboncoin.fr/templates/api/list.json?limit=0&ca=2_s&w=1&f=a&o=1&q=&sp=0&pivot=0,0,0&c=3&cce=1000&pe=17&me=200000&ps=2&re=2015&rs=1964&ccs=50&ms=5000&zipcode=24340&city=Mareuil',
+            headers : {
+                'Content-Type': 'application/x-www-form-urlencoded'   ,
+                'Access-Control-Allow-Origin': '*'           
+            }
         }
     });
 }
@@ -34541,20 +34573,6 @@ comparatorModule.factory('Comparator',
         ComparatorService
     ]
 );
-function ManufacturerService($resource) {
-    return $resource('./assets/json/:name.json', {}, {
-        query: {
-            method: 'GET',
-            isArray: false
-        }
-    });
-}
-manufacturerModule.factory('Manufacturer',
-    [
-        '$resource',
-        ManufacturerService
-    ]
-);
 function ManufacturersService($resource) {
     return $resource('./assets/json/manufacturers.json', {}, {
         query: {
@@ -34567,6 +34585,20 @@ manufacturersModule.factory('Manufacturers',
     [
         '$resource',
         ManufacturersService
+    ]
+);
+function ManufacturerService($resource) {
+    return $resource('./assets/json/:name.json', {}, {
+        query: {
+            method: 'GET',
+            isArray: false
+        }
+    });
+}
+manufacturerModule.factory('Manufacturer',
+    [
+        '$resource',
+        ManufacturerService
     ]
 );
 function NewsService($resource) {
@@ -34607,16 +34639,6 @@ cardbikeModule.component('cardBike', {
         bike: '<'
     }
 });
-function CardManufacturerModule($scope, $element, $attrs) {
-    var ctrl = this;
-}
-cardmanufacturerModule.component('cardManufacturer', {
-    templateUrl: './app/shared/card-manufacturer/card-manufacturer.template.html',
-    controller: CardManufacturerModule,
-    bindings: {
-        manufacturer: '<'
-    }
-});
 function ListBikesController($scope, $element, $attrs) {
     var ctrl = this;
 }
@@ -34627,14 +34649,14 @@ listBikesModule.component('listBikes', {
         bikes: '<'
     }
 });
-function ListManufacturersController($scope, $element, $attrs) {
+function CardManufacturerModule($scope, $element, $attrs) {
     var ctrl = this;
 }
-listManufacturersModule.component('listManufacturers', {
-    templateUrl: './app/shared/list-manufacturers/list-manufacturers.template.html',
-    controller: ListManufacturersController,
+cardmanufacturerModule.component('cardManufacturer', {
+    templateUrl: './app/shared/card-manufacturer/card-manufacturer.template.html',
+    controller: CardManufacturerModule,
     bindings: {
-        manufacturers: '<'
+        manufacturer: '<'
     }
 });
 function RecordCardBikeController($scope, $element, $attrs) {
@@ -34645,6 +34667,16 @@ recordCardBikeModule.component('recordCardBike', {
     controller: RecordCardBikeController,
     bindings: {
         bike: '<'
+    }
+});
+function ListManufacturersController($scope, $element, $attrs) {
+    var ctrl = this;
+}
+listManufacturersModule.component('listManufacturers', {
+    templateUrl: './app/shared/list-manufacturers/list-manufacturers.template.html',
+    controller: ListManufacturersController,
+    bindings: {
+        manufacturers: '<'
     }
 });
 function RecordCardManufacturerController($scope, $element, $attrs) {

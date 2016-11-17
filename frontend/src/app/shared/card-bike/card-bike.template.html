@@ -1,1 +1,10 @@
- <span><a ng-href="#/bike/{{$ctrl.bike.name}}">{{$ctrl.bike.name}}</a></span>
+<div class="col s12 m4">
+    <div class="card small">
+        <div class="card-image" style="max-height: 100%;">
+            <img ng-src="{{$ctrl.bike.urlImgMotoplanete}}" alt="" style="max-height: 50%;">
+        </div>
+        <div class="card-action">
+            <a ng-href="#/bike/{{$ctrl.bike.name}}">{{$ctrl.bike.name}}</a>
+        </div>
+    </div>
+</div>
