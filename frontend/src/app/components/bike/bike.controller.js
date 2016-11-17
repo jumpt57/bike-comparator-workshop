@@ -1,6 +1,7 @@
 function BikeController($scope, $routeParams, Bike){
-    var nameManu = $routeParams.name.split(' ')[0].toLowerCase();
-    Bike.query({name: nameManu}, function(data){
+    $scope.message = 'test';
+    $scope.manufacturer = $routeParams.name.split(' ')[0].toLowerCase();
+    Bike.query({name: $scope.manufacturer}, function(data){
         data.bikes.forEach(function(bike) {
             if(bike.name == $routeParams.name){
                 $scope.bike = bike;

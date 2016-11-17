@@ -6,17 +6,24 @@ var gulp = require('gulp'),
 
 var repSortie = './src/assets/js/build';
 
-var files = [ 'src/assets/bower_components/jquery/dist/jquery.js',
-            'src/assets/bower_components/materialize/dist/js/materialize.js',
-            'src/assets/bower_components/angular/angular.js',
-            'src/assets/bower_components/angular-route/angular-route.js',
-            'src/assets/bower_components/angular-resource/angular-resource.js',
-
-            'src/app/**/*.module.js',
-            'src/app/**/app.*.js',
-            'src/app/**/*.controller.js',
-            'src/app/**/*.service.js',
-            'src/app/**/*.component.js'];
+var files = [                
+                'src/assets/plugins/jquery/jquery-2.2.0.min.js',               
+                'src/assets/plugins/materialize/js/materialize.min.js',
+                /**Bower Module */
+                'src/assets/bower_components/angular/angular.js',
+                'src/assets/bower_components/angular-route/angular-route.js',
+                'src/assets/bower_components/angular-resource/angular-resource.js',
+                /**Templates modules */
+                'src/assets/plugins/material-preloader/js/materialPreloader.min.js',
+                'src/assets/plugins/jquery-blockui/jquery.blockui.js',
+                'src/assets/js/alpha.min.js',
+                /**Angular modules */
+                'src/app/**/*.module.js',
+                'src/app/**/app.*.js',
+                'src/app/**/*.controller.js',
+                'src/app/**/*.service.js',
+                'src/app/**/*.component.js',
+            ];
 
 gulp.task('watch-js', function () {
     return gp_watch('src/app/**/*.js', function () {

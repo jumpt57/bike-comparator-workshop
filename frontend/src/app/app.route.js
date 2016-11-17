@@ -12,8 +12,20 @@ function AppRouter($routeProvider) {
             templateUrl: './app/components/bike/bike.template.html',
             controller: 'bikeController'
         })
+        .when('/research', {
+            templateUrl: './app/components/research/research.template.html',
+            controller: 'researchController'
+        })
+        .when('/comparator', {
+            templateUrl: './app/components/comparator/comparator.template.html',
+            controller: 'comparatorController'
+        })
+        .when('/news', {
+            templateUrl: './app/components/news/news.template.html',
+            controller: 'newsController'
+        })
         .otherwise({
-            redirectTo: '/manufacturers'
+            redirectTo: '/news'
         });
 }
 bikeApp.config(

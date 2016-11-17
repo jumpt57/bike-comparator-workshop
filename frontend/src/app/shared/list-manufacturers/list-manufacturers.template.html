@@ -1,8 +1,11 @@
-<div>
-    La liste des constructeurs :
+<div class="row">
+    <div class="col s12">
+        <div class="page-title">La liste des constructeurs :</div>
+    </div>
+    Recherche : <input ng-model="$ctrl.query">
     <ul>
-        <li ng-repeat="manufacturer in $ctrl.manufacturers">
-            <a ng-href="#/manufacturer/{{manufacturer.name}}">{{manufacturer.id}} - {{manufacturer.name}}</a>
+        <li ng-repeat="manufac in $ctrl.manufacturers | filter:$ctrl.query">
+            <card-manufacturer manufacturer="manufac"></card-manufacturer>
         </li>
     </ul>
 </div>

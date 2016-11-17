@@ -1,0 +1,1 @@
+var recordCardBikeModule = angular.module('recordCardBikeModule', []);

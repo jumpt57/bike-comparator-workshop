@@ -2,15 +2,117 @@
 <html lang="fr" ng-app="bikeApp">
 
 <head>
-    <title>Bikeplanete</title>
+    <title>BikePlanete</title>
     <meta charset="UTF-8">
-    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="./assets/bower_components/materialize/dist/css/materialize.css" media="screen,projection">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="./assets/plugins/materialize/css/materialize.min.css" media="screen,projection" />
+    <link rel="stylesheet" href="./assets/plugins/material-preloader/css/materialPreloader.min.css" />
+    <link rel="stylesheet" href="./assets/css/alpha.min.css" />
+
+    <style>
+        .sidebar-profile {
+            padding: 75px 24px;
+            background: url('./assets/images/bike-logo.png');
+            background-size: cover;
+        }
+    </style>
 </head>
 
 <body>
-    <ng-view></ng-view>
+    <div class="loader-bg"></div>
+    <div class="loader">
+        <div class="preloader-wrapper big active">
+            <div class="spinner-layer spinner-blue">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+            <div class="spinner-layer spinner-spinner-teal lighten-1">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+            <div class="spinner-layer spinner-yellow">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+            <div class="spinner-layer spinner-green">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mn-content fixed-sidebar">
+        <header class="mn-header navbar-fixed">
+            <nav class="grey darken-3">
+                <div class="nav-wrapper row">
+                    <section class="material-design-hamburger navigation-toggle">
+                        <a href="#" data-activates="slide-out" class="button-collapse show-on-large material-design-hamburger__icon">
+                            <span class="material-design-hamburger__layer"></span>
+                        </a>
+                    </section>
+                    <div class="header-title col s3">
+                        <span class="chapter-title">Bike Planete</span>
+                    </div>
+                    <ul class="right col s9 m3 nav-right-menu">
+                        <li><a href="javascript:void(0)" data-activates="chat-sidebar" class="chat-button show-on-large"><i class="material-icons">more_vert</i></a></li>
+                        <li class="hide-on-small-and-down">
+                            <a href="javascript:void(0)" data-activates="dropdown1" class="dropdown-button dropdown-right show-on-large"><i class="material-icons">notifications_none</i><span class="badge">4</span></a>
+                        </li>
+                        <li class="hide-on-med-and-up"><a href="javascript:void(0)" class="search-toggle"><i class="material-icons">search</i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <aside id="slide-out" class="side-nav white fixed">
+            <div class="side-nav-wrapper">
+                <div class="sidebar-profile"></div>
+                <ul class="sidebar-menu collapsible collapsible-accordion" data-collapsible="accordion">
+                    <li class="no-padding active"><a class="waves-effect waves-grey active" ng-href="#/news"><i class="material-icons">home</i>Accueil</a></li>
+                    <li class="no-padding"><a class="waves-effect waves-grey" ng-href="#/manufacturers"><i class="material-icons">motorcycle</i>Marques</a></li>
+                    <li class="no-padding"><a class="waves-effect waves-grey" ng-href="#/comparator"><i class="material-icons">settings</i>Comparateur</a></li>
+                    <li class="no-padding"><a class="waves-effect waves-grey" ng-href="#/research"><i class="material-icons">search</i>Recherche</a></li>
+                </ul>
+
+            </div>
+        </aside>
+        <main class="mn-inner">            
+            <ng-view></ng-view>               
+        </main>
+
+    </div>
+    <div class="left-sidebar-hover"></div>
+
+
+
+
     <script src="./assets/js/build/app.js"></script>
 </body>
 
