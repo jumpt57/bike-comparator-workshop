@@ -3,7 +3,7 @@ function ManufacturersService($resource) {
         query: {
             method: 'GET',
             isArray: false
-        }
+        } 
     });
 }
 manufacturersModule.factory('Manufacturers',

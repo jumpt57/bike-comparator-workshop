@@ -3,7 +3,7 @@ function BikeService($resource) {
         query: {
             method: 'GET',
             isArray: false
-        }
+        } 
     });
 }
 bikeModule.factory('Bike',

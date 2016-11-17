@@ -1,6 +1,6 @@
 function ManufacturersController($scope, Manufacturers) {
 
-    Manufacturers.query(function(data) {       
+    Manufacturers.query(function(data) {        
         $scope.manufacturers = data.manufactures;
     });
 }

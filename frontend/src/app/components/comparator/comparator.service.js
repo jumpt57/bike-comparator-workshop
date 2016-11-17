@@ -3,7 +3,7 @@ function ComparatorService($resource) {
         queryAll: {
             method: 'GET',
             isArray: false
-        },
+        }, 
         queryOneById: {
             method: 'GET',
             isArray: false,
