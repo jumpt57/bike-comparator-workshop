@@ -174,11 +174,13 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
 	$arrayManufactures['modele'] = array();
   	$query = "SELECT * FROM bike 
   	INNER JOIN engine ON engine.id = bike.id_engine
-  	WHERE id_category = " .$idCategory." 
-  	AND id_manufacturer = " . $idManufacturer."
-  	AND id_modele = ".$idModele."
-  	";
-    
+  	WHERE 1=1";
+    if(!empty($idCategory))
+  		$query .= " AND id_category >= ".$idCategory;
+  	if(!empty($idManufacturer))
+  		$query .= " AND id_manufacturer >= ".$idManufacturer;
+  	if(!empty($idModele))
+  		$query .= " AND id_modele >= ".$idModele;
   	if(!empty($minTarif))
   		$query .= " AND price >= ".$minTarif;
   	if(!empty($maxTarif))
