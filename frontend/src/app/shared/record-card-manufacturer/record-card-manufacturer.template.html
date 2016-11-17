@@ -1,7 +1,5 @@
 <div>
-    <h1>Un constructeur {{$ctrl.manufacturer.name}} LOOL</h1>
-
-    {{$ctrl.manufacturer.years}}
+    <h2>{{$ctrl.manufacturer.name | uppercase}}</h2>  
 
     <list-bikes bikes="$ctrl.manufacturer.bikes"></list-bikes>
 </div>

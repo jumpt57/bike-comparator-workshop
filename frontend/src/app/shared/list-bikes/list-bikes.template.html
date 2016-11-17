@@ -1,5 +1,8 @@
-<div>
-    List des motos : Recherche : <input ng-model="$ctrl.query">
+<div class="row">
+    <div class="col s12">
+        <div class="page-title">La liste des motos :</div>
+    </div>
+    Recherche : <input ng-model="$ctrl.query">
     <ul>
         <li ng-repeat="bike in $ctrl.bikes | filter:$ctrl.query">
             <card-bike bike="bike"></card-bike>

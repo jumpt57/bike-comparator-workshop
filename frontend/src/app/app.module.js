@@ -17,8 +17,7 @@ var bikeApp = angular.module('bikeApp',
         'cardmanufacturerModule',
 
         'recordCardBikeModule',
-        'recordCardManufacturerModule',
-        
+        'recordCardManufacturerModule'      
         
     ]
 );
