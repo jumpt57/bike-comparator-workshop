@@ -1,1 +1,110 @@
-<h1>Comparateur</h1>
+<main class="mn-inner comparison-table">
+	<div class="row">
+		<div class="col s12">
+			<div class="page-title">Comparateur</div>
+		</div>
+		<div class="col s12">
+			<div class="card">
+				<div class="card-content">
+					<span class="card-title">Informations moto</span>
+					<br>
+					<div class="row">
+						<form class="col s12">
+							<div class="row">
+								<div class="col s3">
+									<label>Marques</label>
+									<select ng-model="marqueSelect" ng-change="onManufacturerChange(marqueSelect)" class="browser-default">
+										<option value="" disabled selected>Choose your option</option>
+										<option ng-repeat="manu in manufacturers" value="{{manu.id}}">{{manu.name}}</option>
+									</select>
+								</div>
+								<div class="col s3">
+									<label>Année</label>
+									<select ng-model="anneeSelect" ng-change="onManuYearChange(marqueSelect, anneeSelect)" class="browser-default">
+										<option value="" disabled selected>Choose your option</option>
+										<option ng-repeat="annee in manuYears" value="{{annee}}">{{annee}}</option>
+									</select>
+								</div>
+								<div class="col s3">
+									<label>Modèles</label>
+									<select ng-model="modeleSelect" class="browser-default">
+										<option value="" disabled selected>Choose your option</option>
+										<option ng-repeat="bike in manuBikes" value="{{bike.id}}">{{bike.name}}</option>
+									</select>
+								</div>
+								<div class="input-fiel col s3">
+									<button ng-click="onClickAddBike(modeleSelect)" class="btn waves-effect waves-light grey darken-3" type="submit" name="action">Ajouter
+										<i class="material-icons right">add</i>
+									</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<section class="cd-products-comparison-table">
+
+		<div class="cd-products-table">
+			<div class="features">
+				<div class="top-info">Motos</div>
+				<ul class="cd-features-list">
+					<li>Année</li>
+					<li>Vitesse max</li>
+					<li>Prix</li>
+					<li>Catégorie</li>
+					<li>Couple</li>
+					<li>Puissance</li>
+					<li>Cylindrée</li>
+					<li>Type de boite</li>
+					<li>Transmission secondaire</li>
+					<li>Poids à sec</li>
+					<li>Hauteur de selle</li>
+					<li>Réservoir</li>
+				</ul>
+			</div>
+			<!-- .features -->
+
+			<div class="cd-products-wrapper">
+				<ul class="cd-products-columns">
+					<li ng-repeat="bike in bikes" class="product">
+						<div class="top-info">
+							<img src="{{bike.img_url}}">
+							<h3>{{bike.name}}</h3>
+						</div>
+						<!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>{{bike.year}}</li>
+							<li>{{bike.max_speed}}</li>
+							<li>{{bike.price}} €</li>
+							<li>{{bike.category_name}}</li>
+							<li>{{bike.engine.torque}}</li>
+							<li>{{bike.engine.power}}</li>
+							<li>{{bike.engine.displacement}}</li>
+							<li>{{bike.transmission.geerbox_type}}</li>
+							<li>{{bike.transmission.secondary_transmission}}</li>
+							<li>{{bike.frame.moving_weight}}</li>
+							<li>{{bike.frame.seat_height}}</li>
+							<li>{{bike.frame.tank_capacity}}</li>
+						</ul>
+					</li>
+					<!-- .product -->
+
+					
+					<!-- .product -->
+				</ul>
+				<!-- .cd-products-columns -->
+			</div>
+			<!-- .cd-products-wrapper -->
+
+			<ul class="cd-table-navigation">
+				<li><a href="#0" class="prev inactive">Prev</a></li>
+				<li><a href="#0" class="next">Next</a></li>
+			</ul>
+		</div>
+		<!-- .cd-products-table -->
+	</section>
+	<!-- .cd-products-comparison-table -->
+</main>
