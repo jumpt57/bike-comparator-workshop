@@ -1,0 +1,1 @@
+var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);

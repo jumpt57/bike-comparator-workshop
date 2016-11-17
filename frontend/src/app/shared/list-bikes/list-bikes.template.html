@@ -1,8 +1,8 @@
 <div>
-    List des motos :
+    List des motos : Recherche : <input ng-model="$ctrl.query">
     <ul>
-        <li ng-repeat="bike in $ctrl.bikes">
-            <a ng-href="#/bike/{{bike.name}}">{{bike.name}}</a>
+        <li ng-repeat="bike in $ctrl.bikes | filter:$ctrl.query">
+            <card-bike bike="bike"></card-bike>
         </li>
     </ul>
 </div>
