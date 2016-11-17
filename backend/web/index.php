@@ -2,7 +2,7 @@
 require_once __DIR__.'/../vendor/autoload.php';
 use Symfony\Component\HttpFoundation\Request;
 
-//header('Access-Control-Allow-Origin: *');  
+header('Access-Control-Allow-Origin: *');  
 $app = new Silex\Application();
 
 header('Content-Type: application/json; charset=utf-8');
@@ -135,13 +135,13 @@ $app->get('/category/{idCategory}/manufacturer/{idManufacturer}', function (Requ
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['modele'] = array();
-  	$query = "SELECT * FROM bike WHERE id_category = " .$idCategory." AND id_manufacturer = " . $idManufacturer;
+  	$query = "SELECT distinct m.id, m.name FROM bike b INNER JOIN modele m ON m.id = b.id_modele WHERE id_category = " .$idCategory." AND id_manufacturer = " . $idManufacturer;
 
 	try {
 	  	$result = $pdo->query($query);
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
-	  		$manuf['id_modele'] = $resultat['id_motoplanete'];
+	  		$manuf['id'] = $resultat['id'];
 	  		$manuf['name'] = utf8_encode($resultat['name']);	
 
 	  		array_push($arrayManufactures['modele'], $manuf);
@@ -162,8 +162,10 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
 	$idModele = $request->get('idModele');
 	$minCylindree = $request->get('minCylindree');
 	$maxCylindree = $request->get('maxCylindree');
+	
 	$minTarif = $request->get('minTarif');
 	$maxTarif = $request->get('maxTarif');
+
 
 
 	$arrayManufactures = array();
@@ -171,14 +173,20 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['modele'] = array();
   	$query = "SELECT * FROM bike 
-  	INNER JOIN engine 
+  	INNER JOIN engine ON engine.id = bike.id_engine
   	WHERE id_category = " .$idCategory." 
   	AND id_manufacturer = " . $idManufacturer."
   	AND id_modele = ".$idModele."
-  	AND price BETWEEN ".$minTarif." AND ".$maxTarif."
-  	AND cylindree BETWEEN ".$minCylindree." AND ".$maxCylindree;
-
-
+  	";
+    
+  	if(!empty($minTarif))
+  		$query .= " AND price >= ".$minTarif;
+  	if(!empty($maxTarif))
+  		$query .= " AND price <= ".$maxTarif;
+	if(!empty($minCylindree))
+  		$query .= " AND cylindree >= ".$minCylindree;
+	if(!empty($maxCylindree))
+  		$query .= " AND cylindree <= ".$maxCylindree;
 
 	try {
 	  	$result = $pdo->query($query);
