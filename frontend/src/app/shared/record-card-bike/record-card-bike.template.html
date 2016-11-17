@@ -10,24 +10,25 @@
     </div>
 </div>
 <div class="row">
-    <div class="col s6 m6 l6">
+    <div class="col s12 m8">
         <div class="card card-transparent">
             <div class="card-content">
                 <div class="row">
                     <div class="col s12">
-                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.img_url}}" alt="">
+                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.img_url}}" style="min-height: 450px;">
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="col s6 m6 l6">
+    <div class="col s12 m4">
         <div class="card">
             <div class="card-content">
                 <div class="row">
-                    <div class="col s12">
-                        <div class="page-title">Données LeBonCoin</div>
-                    </div>
+                    <span class="card-title">Voir sur :</span><br>
+                    <a target="_blank" ng-href="https://www.leboncoin.fr/motos/offres/aquitaine/occasions?q={{$ctrl.bike.name}}&rs={{$ctrl.bike.year - 1}}&re={{$ctrl.bike.year}}">
+                        <img src="./assets/images/leboncoin.png" style="max-height: 50px;">
+                    </a>
                 </div>
             </div>
         </div>
@@ -41,7 +42,7 @@
         <div class="card">
             <div class="card-content">
                 <span class="card-title">Infos générales</span><br>
-                <table class="responsive-table">
+                <table>
                     <tbody>
                         <tr>
                             <th>Années</th>
@@ -63,7 +64,7 @@
         </div>
     </div>
     <div class="col s12 m12">
-        <div class="card col s12 m4 cardOverflow">
+        <div class="card col s12 m6 cardOverflow">
             <div class="card-content">
                 <span class="card-title">Train Arrière</span><br>
                 <table class="responsive-table">
@@ -88,7 +89,7 @@
                 </table>
             </div>
         </div>
-        <div class="card col s12 m4 cardOverflow">
+        <div class="card col s12 m6 cardOverflow">
             <div class="card-content">
                 <span class="card-title">Train avant</span><br>
                 <table class="responsive-table">
@@ -113,7 +114,7 @@
                 </table>
             </div>
         </div>
-        <div class="card col s12 m4 cardOverflow">
+        <div class="card col s12 m6 cardOverflow">
             <div class="card-content">
                 <span class="card-title">Moteur</span><br>
                 <table class="responsive-table">
@@ -170,7 +171,7 @@
                 </table>
             </div>
         </div>
-        <div class="card col s12 m4 cardOverflow">
+        <div class="card col s12 m6 cardOverflow">
             <div class="card-content">
                 <span class="card-title">Transmission</span><br>
                 <table class="responsive-table">
@@ -194,7 +195,7 @@
                 </table>
             </div>
         </div>
-        <div class="card col s12 m4 cardOverflow">
+        <div class="card col s12 m6 cardOverflow">
             <div class="card-content">
                 <span class="card-title">Cadre</span><br>
                 <table class="responsive-table">

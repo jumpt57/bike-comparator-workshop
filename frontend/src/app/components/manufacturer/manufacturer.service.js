@@ -8,6 +8,11 @@ function ManufacturerService($resource) {
             method: 'GET',
             isArray: false,
             url: 'http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id/bike'
+        },
+        queryCateg: {
+            method: 'GET',
+            isArray: false,
+            url: 'http://comparateur.anarkhief.fr/web/index.php/bike/:id'
         }
     });
 }

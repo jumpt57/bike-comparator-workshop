@@ -26,6 +26,10 @@ var files = [
                 'src/app/**/*.component.js',
             ];
 
+var cssFiles = [
+
+];
+
 gulp.task('watch-js', function () {
     return gp_watch('src/app/**/*.js', function () {
         gulp.src(files)

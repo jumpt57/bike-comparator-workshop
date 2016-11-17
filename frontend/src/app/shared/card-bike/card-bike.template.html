@@ -1,7 +1,10 @@
-<div class="col s12 m4">
+<div class="col s12 m2">
     <div class="card small">
-        <div class="card-image" style="max-height: 100%;">
-            <img ng-src="{{$ctrl.bike.imgurl}}" alt="" style="max-height: 50%;">
+        <div class="card-image">
+            <img ng-src="{{$ctrl.bike.imgurl}}">
+        </div>
+        <div class="card-content">
+            <p>{{$ctrl.bike.category}}</p>
         </div>
         <div class="card-action">
             <a ng-href="#/bike/{{$ctrl.bike.id}}">{{$ctrl.bike.name}}</a>
