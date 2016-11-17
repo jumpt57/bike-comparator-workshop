@@ -115,7 +115,7 @@ $app->get('/category', function (Request $request) use ($app, $pdo) {
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);	
+	  		$manuf['name'] = ($resultat['name']);	
 
 	  		array_push($arrayManufactures['category'], $manuf);
 	  	}
@@ -142,7 +142,7 @@ $app->get('/category/{idCategory}/manufacturer/{idManufacturer}', function (Requ
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);	
+	  		$manuf['name'] = ($resultat['name']);	
 
 	  		array_push($arrayManufactures['modele'], $manuf);
 	  	}
@@ -176,11 +176,11 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
   	INNER JOIN engine ON engine.id = bike.id_engine
   	WHERE 1=1";
     if(!empty($idCategory))
-  		$query .= " AND id_category >= ".$idCategory;
+  		$query .= " AND id_category = ".$idCategory;
   	if(!empty($idManufacturer))
-  		$query .= " AND id_manufacturer >= ".$idManufacturer;
+  		$query .= " AND id_manufacturer = ".$idManufacturer;
   	if(!empty($idModele))
-  		$query .= " AND id_modele >= ".$idModele;
+  		$query .= " AND id = ".$idModele;
   	if(!empty($minTarif))
   		$query .= " AND price >= ".$minTarif;
   	if(!empty($maxTarif))
@@ -195,8 +195,8 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 			$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
+	  		$manuf['name'] = ($resultat['name']);
+	  		$manuf['image'] = ($resultat['imgurl']);
 
 	  		array_push($arrayManufactures['modele'], $manuf);
 	  	}
@@ -229,8 +229,8 @@ $app->get('/manufacturer/{id}/bike', function (Request $request, $id) use ($app,
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		$manuf['imgurl'] = utf8_encode($resultat['imgurl']);
+	  		$manuf['name'] = ($resultat['name']);
+	  		$manuf['imgurl'] = ($resultat['imgurl']);
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
 	  	}
@@ -258,9 +258,9 @@ $app->get('/bike/recent', function ($id) use ($app, $pdo) {
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
-	  		$manuf['date'] = utf8_encode($resultat['date_added']);
+	  		$manuf['name'] = ($resultat['name']);
+	  		$manuf['image'] = ($resultat['imgurl']);
+	  		$manuf['date'] = ($resultat['date_added']);
 	  		
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
@@ -289,8 +289,8 @@ $app->get('/bike', function (Request $request, $id) use ($app, $pdo) {
 	  	while($resultat = $result->fetch()) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
-	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		$manuf['image'] = utf8_encode($resultat['imgurl']);
+	  		$manuf['name'] = ($resultat['name']);
+	  		$manuf['image'] = ($resultat['imgurl']);
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
 	  	}
@@ -330,42 +330,46 @@ $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 		$arrayManufactures['bike']['max_speed'] = $resultat['b.max_speed'];
 		$arrayManufactures['bike']['price'] = $resultat['b.price'];
 		$arrayManufactures['bike']['category_name'] = $resultat['cat.name'];
-		$arrayManufactures['bike']['rear']['rear_shock'] = utf8_encode($resultat['rear.rear_shock']);
-		$arrayManufactures['bike']['rear']['rear_brake'] = utf8_encode($resultat['rear.rear_brake']);
-		$arrayManufactures['bike']['rear']['type'] = utf8_encode($resultat['rear.type']);
-		$arrayManufactures['bike']['rear']['rear_wheel'] = utf8_encode($resultat['rear.rear_wheel']);
+		$arrayManufactures['bike']['img_url'] = $resultat['b.imgurl'];
+		$arrayManufactures['bike']['year'] = $resultat['b.year'];
+		$arrayManufactures['bike']['zero_to_hundred'] = $resultat['b.zero_to_hundred'];
+		$arrayManufactures['bike']['rear']['rear_shock'] = ($resultat['rear.rear_shock']);
+		$arrayManufactures['bike']['rear']['rear_brake'] = ($resultat['rear.rear_brake']);
+		$arrayManufactures['bike']['rear']['type'] = ($resultat['rear.type']);
+		$arrayManufactures['bike']['rear']['rear_wheel'] = ($resultat['rear.rear_wheel']);
 
-		$arrayManufactures['bike']['front_axle']['front_shock'] = utf8_encode($resultat['front.front_shock']);
-		$arrayManufactures['bike']['front_axle']['fork'] = utf8_encode($resultat['front.fork']);
-		$arrayManufactures['bike']['front_axle']['front_wheel'] = utf8_encode($resultat['front.front_wheel']);
-		$arrayManufactures['bike']['front_axle']['front_brake'] = utf8_encode($resultat['front.front_brake']);
+		$arrayManufactures['bike']['front_axle']['front_shock'] = ($resultat['front.front_shock']);
+		$arrayManufactures['bike']['front_axle']['fork'] = ($resultat['front.fork']);
+		$arrayManufactures['bike']['front_axle']['front_wheel'] = ($resultat['front.front_wheel']);
+		$arrayManufactures['bike']['front_axle']['front_brake'] = ($resultat['front.front_brake']);
 
-		$arrayManufactures['bike']['engine']['gas_supply'] = utf8_encode($resultat['eng.gas_supply']);
-		$arrayManufactures['bike']['engine']['torque'] = utf8_encode($resultat['eng.torque']);
-		$arrayManufactures['bike']['engine']['act'] = utf8_encode($resultat['eng.act']);
-		$arrayManufactures['bike']['engine']['power'] = utf8_encode($resultat['eng.power']);
-		$arrayManufactures['bike']['engine']['cooling'] = utf8_encode($resultat['eng.cooling']);
-		$arrayManufactures['bike']['engine']['displacement'] = utf8_encode($resultat['eng.displacement']);
-		$arrayManufactures['bike']['engine']['type'] = utf8_encode($resultat['eng.type']);
-		$arrayManufactures['bike']['engine']['power_to_weight_ratio'] = utf8_encode($resultat['eng.power_to_weight_ratio']);
-		$arrayManufactures['bike']['engine']['valve'] = utf8_encode($resultat['eng.valve']);
-		$arrayManufactures['bike']['engine']['valve_command'] = utf8_encode($resultat['eng.valve_command']);
-		$arrayManufactures['bike']['engine']['bridable'] = utf8_encode($resultat['eng.bridable']);
+		$arrayManufactures['bike']['engine']['gas_supply'] = ($resultat['eng.gas_supply']);
+		$arrayManufactures['bike']['engine']['torque'] = ($resultat['eng.torque']);
+		$arrayManufactures['bike']['engine']['act'] = ($resultat['eng.act']);
+		$arrayManufactures['bike']['engine']['power'] = ($resultat['eng.power']);
+		$arrayManufactures['bike']['engine']['cooling'] = ($resultat['eng.cooling']);
+		$arrayManufactures['bike']['engine']['displacement'] = ($resultat['eng.displacement']);
+		$arrayManufactures['bike']['engine']['type'] = ($resultat['eng.type']);
+		$arrayManufactures['bike']['engine']['power_to_weight_ratio'] = ($resultat['eng.power_to_weight_ratio']);
+		$arrayManufactures['bike']['engine']['valve'] = ($resultat['eng.valve']);
+		$arrayManufactures['bike']['engine']['valve_command'] = ($resultat['eng.valve_command']);
+		$arrayManufactures['bike']['engine']['bridable'] = ($resultat['eng.bridable']);
+		$arrayManufactures['bike']['engine']['engine_intake'] = ($resultat['eng.engine_intake']);
 
-		$arrayManufactures['bike']['transmission']['gearbox_speeds'] = utf8_encode($resultat['trans.gearbox_speeds']);
-		$arrayManufactures['bike']['transmission']['geerbox_type'] = utf8_encode($resultat['trans.gearbox_type']);
-		$arrayManufactures['bike']['transmission']['secondary_transmission'] = utf8_encode($resultat['trans.secondary_transmission']);
-		$arrayManufactures['bike']['transmission']['type'] = utf8_encode($resultat['trans.type']);
+		$arrayManufactures['bike']['transmission']['gearbox_speeds'] = ($resultat['trans.gearbox_speeds']);
+		$arrayManufactures['bike']['transmission']['geerbox_type'] = ($resultat['trans.gearbox_type']);
+		$arrayManufactures['bike']['transmission']['secondary_transmission'] = ($resultat['trans.secondary_transmission']);
+		$arrayManufactures['bike']['transmission']['type'] = ($resultat['trans.type']);
 
-		$arrayManufactures['bike']['frame']['dry_weight'] = utf8_encode($resultat['frm.dry_weight']);
-		$arrayManufactures['bike']['frame']['seat_height'] = utf8_encode($resultat['frm.seat_height']);
-		$arrayManufactures['bike']['frame']['type'] = utf8_encode($resultat['frm.type']);
-		$arrayManufactures['bike']['frame']['tank_capacity'] = utf8_encode($resultat['frm.tank_capacity']);
-		$arrayManufactures['bike']['frame']['length'] = utf8_encode($resultat['frm.length']);
-		$arrayManufactures['bike']['frame']['wheel_base'] = utf8_encode($resultat['frm.wheelbase']);
-		$arrayManufactures['bike']['frame']['width'] = utf8_encode($resultat['frm.width']);
-		$arrayManufactures['bike']['frame']['height'] = utf8_encode($resultat['frm.height']);
-		$arrayManufactures['bike']['frame']['moving_weight'] = utf8_encode($resultat['frm.moving_weight']);
+		$arrayManufactures['bike']['frame']['dry_weight'] = ($resultat['frm.dry_weight']);
+		$arrayManufactures['bike']['frame']['seat_height'] = ($resultat['frm.seat_height']);
+		$arrayManufactures['bike']['frame']['type'] = ($resultat['frm.type']);
+		$arrayManufactures['bike']['frame']['tank_capacity'] = ($resultat['frm.tank_capacity']);
+		$arrayManufactures['bike']['frame']['length'] = ($resultat['frm.length']);
+		$arrayManufactures['bike']['frame']['wheel_base'] = ($resultat['frm.wheelbase']);
+		$arrayManufactures['bike']['frame']['width'] = ($resultat['frm.width']);
+		$arrayManufactures['bike']['frame']['height'] = ($resultat['frm.height']);
+		$arrayManufactures['bike']['frame']['moving_weight'] = ($resultat['frm.moving_weight']);
 
 	  	$pdo->setAttribute(PDO::ATTR_FETCH_TABLE_NAMES, false);
   	}
