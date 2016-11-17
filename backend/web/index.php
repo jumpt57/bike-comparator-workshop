@@ -208,12 +208,19 @@ $app->get('/search', function (Request $request, $idCategory, $idManufacturer) u
 });
 
 
-$app->get('/manufacturer/{id}/bike', function ($id) use ($app, $pdo) {
+$app->get('/manufacturer/{id}/bike', function (Request $request, $id) use ($app, $pdo) {
+
+	$year = $request->get('year');
+
 	$arrayManufactures = array();
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['bikes'] = array();
   	$query = "SELECT * FROM bike WHERE id_manufacturer = ".$id;
+
+  	if(!empty($year))
+  		$query .= " AND year = " . $year;
+
 
 	try {
 	  	$result = $pdo->query($query);
@@ -221,7 +228,7 @@ $app->get('/manufacturer/{id}/bike', function ($id) use ($app, $pdo) {
 	  		$manuf = array();
 	  		$manuf['id'] = $resultat['id'];
 	  		$manuf['name'] = utf8_encode($resultat['name']);
-	  		
+	  		$manuf['imgurl'] = utf8_encode($resultat['imgurl']);
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
 	  	}
