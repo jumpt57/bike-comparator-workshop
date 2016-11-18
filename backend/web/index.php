@@ -54,7 +54,7 @@ $app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['manufactures'] = array();
-  	$query = "SELECT * FROM manufacturer man WHERE name like '%".$name."%'";
+  	$query = "SELECT m.id,m.name,m.imgurl,Count(b.id) as num_bike FROM manufacturer m INNER JOIN bike b on b.id_manufacturer=m.id WHERE m.name like '%".$name."%' GROUP BY m.id,m.name,m.imgurl";
 	try {
 	  	$result = $pdo->query($query);
 	  	while($resultat = $result->fetch()) {
@@ -62,6 +62,7 @@ $app->get('/manufacturers', function (Request $request) use ($app, $pdo) {
 	  		$manuf['id'] = $resultat['id'];
 	  		$manuf['name'] = $resultat['name'];
 	  		$manuf['image'] = $resultat['imgurl'];
+			$manuf['nb_bike'] = $resultat['num_bike'];
 	  		
 
 	  		array_push($arrayManufactures['manufactures'], $manuf);
@@ -218,7 +219,7 @@ $app->get('/manufacturer/{id}/bike', function (Request $request, $id) use ($app,
 	$arrayManufactures['success'] = 1;
 	$arrayManufactures['message'] = null;
 	$arrayManufactures['bikes'] = array();
-  	$query = "SELECT * FROM bike WHERE id_manufacturer = ".$id;
+  	$query = "SELECT b.id,b.name,b.imgurl,c.name as cat_name FROM bike b INNER JOIN category c ON c.id = b.id_category WHERE id_manufacturer = ".$id;
 
   	if(!empty($year))
   		$query .= " AND year = " . $year;
@@ -231,6 +232,7 @@ $app->get('/manufacturer/{id}/bike', function (Request $request, $id) use ($app,
 	  		$manuf['id'] = $resultat['id'];
 	  		$manuf['name'] = ($resultat['name']);
 	  		$manuf['imgurl'] = ($resultat['imgurl']);
+			$manuf['category'] = $resultat['cat_name'];
 
 	  		array_push($arrayManufactures['bikes'], $manuf);
 	  	}
@@ -380,7 +382,46 @@ $app->get('/bike/{id}', function ($id) use ($app, $pdo) {
 	return json_encode($arrayManufactures);
 });
 
-
+$app->get('/leboncoin', function (Request $request, $id) use ($app, $pdo) {
+	$name = $request->get('name');
+	$year_min = $request->get('year_min');
+	$year_max = $request->get('year_max');
+	$post = array('app_id'=> 'leboncoin_android',
+                'key'=> 'd2c84cdd525dddd7cbcc0d0a86609982c2c59e22eb01ee4202245b7b187f49f1546e5f027d48b8d130d9aa918b29e991c029f732f4f8930fc56dbea67c5118ce');
+	$url = "https://mobile.leboncoin.fr/templates/api/list.json?c=3&ps=1&it=1&";
+	if(!empty($name)){
+		$url.="q=".str_replace(" ","%20",$name)."&";
+	}
+	if(!empty($year_min)){
+		$url.="rs=".$year_min."&";
+	}
+	if(!empty($year_max)){
+		$url.="re=".$year_max."&";
+	}
+	$url=rtrim($url, '&');
+	//echo $url;
+	
+	foreach($post as $key=>$value) { $fields_string .= $key.'='.$value.'&'; }
+	rtrim($fields_string, '&');
+	$ch = curl_init();
+	
+	curl_setopt($ch, CURLOPT_URL, $url);
+	
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST'); // -X
+	curl_setopt($ch, CURLOPT_BINARYTRANSFER, TRUE); // --data-binary
+	curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/x-www-form-urlencoded']); // -H
+	curl_setopt($ch,CURLOPT_POST, 2);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $fields_string); 
+	$output = curl_exec($ch);
+	$output = json_decode(utf8_encode($output),true);
+	$output = (json_encode($output));
+	curl_close($ch);
+	//echo utf8_encode($output);
+	//return json_encode($output);
+	return $output;
+	//return json_decode(utf8_encode($output));
+});
 
 
 
