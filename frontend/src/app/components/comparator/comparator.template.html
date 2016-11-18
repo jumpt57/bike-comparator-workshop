@@ -71,7 +71,7 @@
 					<li ng-repeat="bike in bikes" class="product">
 						<div class="top-info">
 							<img ng-src="{{bike.img_url}}">
-							<h3>{{bike.name}}</h3>
+							<h3><a target="_blank" ng-href="#/bike/{{bike.id}}">{{bike.name}}</a></h3>
 						</div>
 						<!-- .top-info -->
 

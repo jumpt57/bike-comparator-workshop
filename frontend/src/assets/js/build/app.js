@@ -34362,8 +34362,26 @@ var bikeApp = angular.module('bikeApp',
         
     ]
 );
-var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
+var manufacturerModule = angular.module('manufacturerModule',
+    [
+        'ngResource'
+    ]
+);
+var bikeModule = angular.module('bikeModule',
+    [
+        'ngResource'
+    ]
+);
+var comparatorModule = angular.module('comparatorModule', []);
+var manufacturersModule = angular.module('manufacturersModule',
+    [
+        'ngResource'
+    ]
+);
+var newsModule = angular.module('newsModule', []);
+var researchModule = angular.module('researchModule', []);
 var cardbikeModule = angular.module('cardbikeModule', []);
+var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
 var listManufacturersModule = angular.module('listManufacturersModule',
     [
         
@@ -34376,24 +34394,6 @@ var listBikesModule = angular.module('listBikesModule',
 );
 var recordCardBikeModule = angular.module('recordCardBikeModule', []);
 var recordCardManufacturerModule = angular.module('recordCardManufacturerModule', []);
-var comparatorModule = angular.module('comparatorModule', []);
-var bikeModule = angular.module('bikeModule',
-    [
-        'ngResource'
-    ]
-);
-var manufacturerModule = angular.module('manufacturerModule',
-    [
-        'ngResource'
-    ]
-);
-var manufacturersModule = angular.module('manufacturersModule',
-    [
-        'ngResource'
-    ]
-);
-var newsModule = angular.module('newsModule', []);
-var researchModule = angular.module('researchModule', []);
 function AppRouter($routeProvider) {
     $routeProvider
         .when('/manufacturers', {
@@ -34440,6 +34440,45 @@ bikeApp.run(
         AppRun
     ]
 );
+function ManufacturerController($scope, $routeParams, Manufacturer){
+    Manufacturer.query({id: $routeParams.id}, function(data){        
+        $scope.manufacturer = data.manufactures[0];         
+        $scope.manufacturer.bikes = [];
+        Manufacturer.queryBikes({id: $scope.manufacturer.id}, function(data){
+            $scope.manufacturer.bikes = data.bikes;          
+        });
+    });
+}
+manufacturerModule.controller('manufacturerController',
+    [
+        '$scope',
+        '$routeParams',
+        'Manufacturer',
+        ManufacturerController
+    ]
+);
+function BikeController($scope, $routeParams, Bike){
+   
+    Bike.query({id: $routeParams.id}, function(data){
+        $scope.bike = data.bike;
+        $scope.bike.ads = [];
+        $scope.manufacturer = $scope.bike.name.split(' ')[0].toLowerCase();
+        $scope.bikeName = $scope.bike.name.substring(0, $scope.bike.name.length - 4);
+        Bike.queryLBC({name: $scope.bikeName, yearmin: $scope.bike.year, yearmax: $scope.bike.year}, function(data){
+            data.ads.forEach(function(ad) {
+                $scope.bike.ads.push({city: ad.city, zip: ad.zipcode, url: ad.url, price: ad.price});
+            }, this);      
+        });    
+    });
+}
+bikeModule.controller('bikeController',
+    [
+        '$scope',
+        '$routeParams',
+        'Bike',
+        BikeController
+    ]
+);
 function ComparatorController($scope, Comparator) {
     $scope.bikes = [];
     Comparator.queryAll(function (data) {
@@ -34475,56 +34514,10 @@ comparatorModule.controller('comparatorController',
         ComparatorController
     ]
     );
-function BikeController($scope, $routeParams, Bike){
-   
-    Bike.query({id: $routeParams.id}, function(data){
-        $scope.bike = data.bike;
-        $scope.manufacturer = $scope.bike.name.split(' ')[0].toLowerCase();
-        /*Bike.queryLBC({name: $scope.bike.name}, function(data){
-            console.log(JSON.parse(data));           
-        });*/
-    
-    });
-}
-bikeModule.controller('bikeController',
-    [
-        '$scope',
-        '$routeParams',
-        'Bike',
-        BikeController
-    ]
-);
-function ManufacturerController($scope, $routeParams, Manufacturer){
-    Manufacturer.query({id: $routeParams.id}, function(data){        
-        $scope.manufacturer = data.manufactures[0];         
-        $scope.manufacturer.bikes = [];
-        Manufacturer.queryBikes({id: $scope.manufacturer.id}, function(data){
-            data.bikes.forEach(function(bike) {
-                Manufacturer.queryCateg({id: bike.id}, function(data){
-                    bike.category = data.bike.category_name;
-                    $scope.manufacturer.bikes.push(bike);
-                });
-            }, this);            
-        });
-    });
-}
-manufacturerModule.controller('manufacturerController',
-    [
-        '$scope',
-        '$routeParams',
-        'Manufacturer',
-        ManufacturerController
-    ]
-);
 function ManufacturersController($scope, Manufacturers) {
 
-    Manufacturers.query(function(data) {        
+    Manufacturers.query(function(data) {
         $scope.manufacturers = data.manufactures;
-        $scope.manufacturers.forEach(function(manufacturer) {
-            Manufacturers.queryBikes({id: manufacturer.id}, function(data){
-                manufacturer.nbBikes = data.bikes.length;
-            });
-        }, this);        
     });
 }
 manufacturersModule.controller('manufacturersController',
@@ -34550,6 +34543,61 @@ researchModule.controller('researchController',
     [
         '$scope',       
         ResearchController
+    ]
+);
+function ManufacturerService($resource) {
+    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id', {}, {
+        query: {
+            method: 'GET',
+            isArray: false
+        },
+        queryBikes: {
+            method: 'GET',
+            isArray: false,
+            url: 'http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id/bike'
+        },
+        queryCateg: {
+            method: 'GET',
+            isArray: false,
+            url: 'http://comparateur.anarkhief.fr/web/index.php/bike/:id'
+        }
+    });
+}
+manufacturerModule.factory('Manufacturer',
+    [
+        '$resource',
+        ManufacturerService
+    ]
+);
+function BikeService($resource) {
+    return $resource('http://comparateur.anarkhief.fr/web/index.php/bike/:id', {}, {
+        query: {
+            method: 'GET',
+            isArray: false
+        },
+        queryLBC2: {
+            method: 'JSONP',
+            url: 'https://mobile.leboncoin.fr/templates/api/list.json?q=:name',
+            params: {
+                'app_id': 'leboncoin_android',
+                'key': 'd2c84cdd525dddd7cbcc0d0a86609982c2c59e22eb01ee4202245b7b187f49f1546e5f027d48b8d130d9aa918b29e991c029f732f4f8930fc56dbea67c5118ce'
+            },
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded'
+            }
+        },
+        queryLBC: {
+            method: 'GET',
+            url: 'http://comparateur.anarkhief.fr/web/index.php/leboncoin?name=:name&year_min=:yearmin&year_max=:yearmax',
+            isArray: false
+        }
+
+    });
+}
+bikeModule.factory('Bike',
+    [
+        '$resource',
+        BikeService
     ]
 );
 function ComparatorService($resource) {
@@ -34580,65 +34628,6 @@ comparatorModule.factory('Comparator',
     [
         '$resource',
         ComparatorService
-    ]
-);
-function BikeService($resource) {
-    return $resource('http://comparateur.anarkhief.fr/web/index.php/bike/:id', {}, {
-        query: {
-            method: 'GET',
-            isArray: false
-        },
-        queryLBC: {
-            method: 'JSONP',
-            url: 'https://mobile.leboncoin.fr/templates/api/list.json?q=:name',
-            params: {
-                'app_id': 'leboncoin_android',
-                'key': 'd2c84cdd525dddd7cbcc0d0a86609982c2c59e22eb01ee4202245b7b187f49f1546e5f027d48b8d130d9aa918b29e991c029f732f4f8930fc56dbea67c5118ce',
-                'json_callback': 'JSON_CALLBACK'
-            },
-            headers: {
-                'Content-Type': 'application/jsonp'
-            }
-        },
-        queryLBC2: {
-            method: 'JSONP',
-            url: 'https://www.leboncoin.fr/motos/offres/aquitaine/occasions/?q=:name',
-            headers: {
-                'Content-Encoding': 'gzip',
-                'Content-Type':' text/html; charset=windows-1252'
-            }
-        }
-
-    });
-}
-bikeModule.factory('Bike',
-    [
-        '$resource',
-        BikeService
-    ]
-);
-function ManufacturerService($resource) {
-    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id', {}, {
-        query: {
-            method: 'GET',
-            isArray: false
-        },
-        queryBikes: {
-            method: 'GET',
-            isArray: false,
-            url: 'http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id/bike'
-        },
-        queryCateg: {
-            method: 'GET',
-            isArray: false,
-            url: 'http://comparateur.anarkhief.fr/web/index.php/bike/:id'
-        }
-    });
-}
-manufacturerModule.factory('Manufacturer',
-    [
-        '$resource',
-        ManufacturerService
     ]
 );
 function ManufacturersService($resource) {
@@ -34688,16 +34677,6 @@ researchModule.factory('Research',
         ResearchService
     ]
 );
-function CardManufacturerModule($scope, $element, $attrs) {
-    var ctrl = this;
-}
-cardmanufacturerModule.component('cardManufacturer', {
-    templateUrl: './app/shared/card-manufacturer/card-manufacturer.template.html',
-    controller: CardManufacturerModule,
-    bindings: {
-        manufacturer: '<'
-    }
-});
 function CardBikeController($scope, $element, $attrs) {
     var ctrl = this;
 }
@@ -34706,6 +34685,16 @@ cardbikeModule.component('cardBike', {
     controller: CardBikeController,
     bindings: {
         bike: '<'
+    }
+});
+function CardManufacturerModule($scope, $element, $attrs) {
+    var ctrl = this;
+}
+cardmanufacturerModule.component('cardManufacturer', {
+    templateUrl: './app/shared/card-manufacturer/card-manufacturer.template.html',
+    controller: CardManufacturerModule,
+    bindings: {
+        manufacturer: '<'
     }
 });
 function ListManufacturersController($scope, $element, $attrs) {
