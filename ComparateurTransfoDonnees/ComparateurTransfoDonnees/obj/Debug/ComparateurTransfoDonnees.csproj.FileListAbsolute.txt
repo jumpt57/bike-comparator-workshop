@@ -1,0 +1,9 @@
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\ComparateurTransfoDonnees.exe.config
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\ComparateurTransfoDonnees.exe
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\ComparateurTransfoDonnees.pdb
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\MySql.Data.dll
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\obj\Debug\ComparateurTransfoDonnees.csprojResolveAssemblyReference.cache
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\obj\Debug\ComparateurTransfoDonnees.exe
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\obj\Debug\ComparateurTransfoDonnees.pdb
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\Newtonsoft.Json.dll
+c:\users\lorin\documents\visual studio 2015\Projects\ComparateurTransfoDonnees\ComparateurTransfoDonnees\bin\Debug\Newtonsoft.Json.xml
