@@ -34362,17 +34362,17 @@ var bikeApp = angular.module('bikeApp',
         
     ]
 );
-var manufacturerModule = angular.module('manufacturerModule',
-    [
-        'ngResource'
-    ]
-);
 var bikeModule = angular.module('bikeModule',
     [
         'ngResource'
     ]
 );
 var comparatorModule = angular.module('comparatorModule', []);
+var manufacturerModule = angular.module('manufacturerModule',
+    [
+        'ngResource'
+    ]
+);
 var manufacturersModule = angular.module('manufacturersModule',
     [
         'ngResource'
@@ -34382,12 +34382,12 @@ var newsModule = angular.module('newsModule', []);
 var researchModule = angular.module('researchModule', []);
 var cardbikeModule = angular.module('cardbikeModule', []);
 var cardmanufacturerModule = angular.module('cardmanufacturerModule', []);
-var listManufacturersModule = angular.module('listManufacturersModule',
+var listBikesModule = angular.module('listBikesModule',
     [
         
     ]
 );
-var listBikesModule = angular.module('listBikesModule',
+var listManufacturersModule = angular.module('listManufacturersModule',
     [
         
     ]
@@ -34440,23 +34440,6 @@ bikeApp.run(
         AppRun
     ]
 );
-function ManufacturerController($scope, $routeParams, Manufacturer){
-    Manufacturer.query({id: $routeParams.id}, function(data){        
-        $scope.manufacturer = data.manufactures[0];         
-        $scope.manufacturer.bikes = [];
-        Manufacturer.queryBikes({id: $scope.manufacturer.id}, function(data){
-            $scope.manufacturer.bikes = data.bikes;          
-        });
-    });
-}
-manufacturerModule.controller('manufacturerController',
-    [
-        '$scope',
-        '$routeParams',
-        'Manufacturer',
-        ManufacturerController
-    ]
-);
 function BikeController($scope, $routeParams, Bike){
    
     Bike.query({id: $routeParams.id}, function(data){
@@ -34464,11 +34447,13 @@ function BikeController($scope, $routeParams, Bike){
         $scope.bike.ads = [];
         $scope.manufacturer = $scope.bike.name.split(' ')[0].toLowerCase();
         $scope.bikeName = $scope.bike.name.substring(0, $scope.bike.name.length - 4);
+        /**Name without year */
         Bike.queryLBC({name: $scope.bikeName, yearmin: $scope.bike.year, yearmax: $scope.bike.year}, function(data){
             data.ads.forEach(function(ad) {
                 $scope.bike.ads.push({city: ad.city, zip: ad.zipcode, url: ad.url, price: ad.price});
             }, this);      
         });    
+        /**Name with year */
     });
 }
 bikeModule.controller('bikeController',
@@ -34514,6 +34499,23 @@ comparatorModule.controller('comparatorController',
         ComparatorController
     ]
     );
+function ManufacturerController($scope, $routeParams, Manufacturer){
+    Manufacturer.query({id: $routeParams.id}, function(data){        
+        $scope.manufacturer = data.manufactures[0];         
+        $scope.manufacturer.bikes = [];
+        Manufacturer.queryBikes({id: $scope.manufacturer.id}, function(data){
+            $scope.manufacturer.bikes = data.bikes;          
+        });
+    });
+}
+manufacturerModule.controller('manufacturerController',
+    [
+        '$scope',
+        '$routeParams',
+        'Manufacturer',
+        ManufacturerController
+    ]
+);
 function ManufacturersController($scope, Manufacturers) {
 
     Manufacturers.query(function(data) {
@@ -34543,30 +34545,6 @@ researchModule.controller('researchController',
     [
         '$scope',       
         ResearchController
-    ]
-);
-function ManufacturerService($resource) {
-    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id', {}, {
-        query: {
-            method: 'GET',
-            isArray: false
-        },
-        queryBikes: {
-            method: 'GET',
-            isArray: false,
-            url: 'http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id/bike'
-        },
-        queryCateg: {
-            method: 'GET',
-            isArray: false,
-            url: 'http://comparateur.anarkhief.fr/web/index.php/bike/:id'
-        }
-    });
-}
-manufacturerModule.factory('Manufacturer',
-    [
-        '$resource',
-        ManufacturerService
     ]
 );
 function BikeService($resource) {
@@ -34628,6 +34606,30 @@ comparatorModule.factory('Comparator',
     [
         '$resource',
         ComparatorService
+    ]
+);
+function ManufacturerService($resource) {
+    return $resource('http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id', {}, {
+        query: {
+            method: 'GET',
+            isArray: false
+        },
+        queryBikes: {
+            method: 'GET',
+            isArray: false,
+            url: 'http://comparateur.anarkhief.fr/web/index.php/manufacturer/:id/bike'
+        },
+        queryCateg: {
+            method: 'GET',
+            isArray: false,
+            url: 'http://comparateur.anarkhief.fr/web/index.php/bike/:id'
+        }
+    });
+}
+manufacturerModule.factory('Manufacturer',
+    [
+        '$resource',
+        ManufacturerService
     ]
 );
 function ManufacturersService($resource) {
@@ -34697,16 +34699,6 @@ cardmanufacturerModule.component('cardManufacturer', {
         manufacturer: '<'
     }
 });
-function ListManufacturersController($scope, $element, $attrs) {
-    var ctrl = this;
-}
-listManufacturersModule.component('listManufacturers', {
-    templateUrl: './app/shared/list-manufacturers/list-manufacturers.template.html',
-    controller: ListManufacturersController,
-    bindings: {
-        manufacturers: '<'
-    }
-});
 function ListBikesController($scope, $element, $attrs) {
     var ctrl = this;
 }
@@ -34715,6 +34707,16 @@ listBikesModule.component('listBikes', {
     controller: ListBikesController,
     bindings: {
         bikes: '<'
+    }
+});
+function ListManufacturersController($scope, $element, $attrs) {
+    var ctrl = this;
+}
+listManufacturersModule.component('listManufacturers', {
+    templateUrl: './app/shared/list-manufacturers/list-manufacturers.template.html',
+    controller: ListManufacturersController,
+    bindings: {
+        manufacturers: '<'
     }
 });
 function RecordCardBikeController($scope, $element, $attrs) {

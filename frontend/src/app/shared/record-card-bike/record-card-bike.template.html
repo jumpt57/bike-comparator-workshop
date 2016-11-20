@@ -15,7 +15,7 @@
             <div class="card-content">
                 <div class="row">
                     <div class="col s12">
-                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.img_url}}" style="min-height: 450px;">
+                        <img id="imgMoto" class="materialboxed responsive-img" ng-src="{{$ctrl.bike.img_url}}" style="min-width: 80%;height: auto;margin: 0 auto;">
                     </div>
                 </div>
             </div>
@@ -26,12 +26,28 @@
             <div class="card-content" style="overflow-y: auto;max-height: 470px;">
                 <div class="row">
                     <span class="card-title">Voir sur :</span><br>
-                    <a target="_blank" ng-href="https://www.leboncoin.fr/motos/offres/aquitaine/occasions?q={{$ctrl.bike.name}}&rs={{$ctrl.bike.year - 1}}&re={{$ctrl.bike.year}}">
+                    <a target="_blank" ng-href="https://www.leboncoin.fr/motos/offres/aquitaine/occasions?q={{$ctrl.bike.name}}&rs={{$ctrl.bike.year}}&re={{$ctrl.bike.year}}">
                         <img src="./assets/images/leboncoin.png" style="max-height: 50px;">
                     </a>
-                    <ul>
-                        <li ng-repeat="ad in $ctrl.bike.ads | orderBy:'price'"><a target="_blank" ng-href="{{ad.url}}">{{ad.zip}} - {{ad.city}} : {{ad.price}} €</a></li>
-                    </ul>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th data-field="zip">Code Postal</th>
+                                <th data-field="city">Ville</th>
+                                <th data-field="price">Prix</th>  
+                                <th data-field=""></th>                              
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr ng-repeat="ad in $ctrl.bike.ads | orderBy:'price'">
+                                <td>{{ad.zip}}</td>
+                                <td>{{ad.city}}</td>
+                                <td>{{ad.price}} €</td>
+                                <td><a target="_blank" ng-href="{{ad.url}}">Voir</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
